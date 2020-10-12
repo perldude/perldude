@@ -20,7 +20,7 @@ possible.
 * Linux, Windows, Perl, Python, Docker, VMWare
 
 ## Had to Take a Year Off
-* Picked up Golang and Docker during this period.
+* Picked up Golang and Docker, and GitLab with a personal project during this period.
 * Refreshed my Swift and iOS knowledge.
 * Studied up on cloud architecture by reading *Cloud Native Patterns* by Cornelia Davis. Good book.
  
