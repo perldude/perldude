@@ -19,8 +19,10 @@ possible.
 * Job involves mainly tracking down build problems on different platforms and fixing them.
 * Linux, Windows, Perl, Python, Docker, VMWare
 
-## Took 2019 Off
+## Had to Take a Year Off
 * Picked up Golang and Docker during this period.
+* Refreshed my Swift and iOS knowledge.
+* Studied up on cloud architecture by reading *Cloud Native Patterns* by Cornelia Davis. Good book.
  
 ## Software Engineer III  
 ### [OpenX](https://www.openx.com) : 2015 - 2019
