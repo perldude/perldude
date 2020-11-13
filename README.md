@@ -6,7 +6,6 @@
 # OBJECTIVE
 
 * Senior Software Engineer / Team Lead / Manager position to use my years of experience to get things done and help develop developers.
-* I am working remotely and would like to keep it that way if at all possible.
 
 # SKILLS
 * Decades of experience with *nix: Linux, macOS, Solaris, etc.
@@ -25,7 +24,7 @@
 
 * ActiveState is a Canadian company that creates custom builds of Perl and Python on various platforms for enterprise customers.
 * Designed and led the team that created an automated portability testing system using containers running on AWS.
-* Linux, Windows, macOS, Perl, Python, Docker, AWS (ECS, S3), VMWare
+* Linux, Windows, macOS, Perl, Python, Docker, AWS (Lambda, SQS/SNS, ECS/ECR, CodeBuild, S3), CircleCI, VMWare, GitHub
 
 ## Took a Year Off	2019 - 2020
 * Picked up Golang, Docker, and GitLab with a [personal project](https://gitlab.com/venchoware/smusma) during this period.
@@ -35,10 +34,10 @@
 ## Software Engineer III  
 ### [OpenX](https://www.openx.com) : 2015 - 2019
 
-* Worked in the Automation Engineering team, which created tools to help the rest of the TechOps teams automate their work. DevOps but more “Dev” than “Ops”.
+* Worked in the Automation Engineering team, which created tools and automation to help the SREs with their work. DevOps but more “Dev” than “Ops”.
 * Scrum Master for six-person team, which used TDD and CI/CD so reliably that it was the only group in the company that did not go through a Change Board process for releases.
-* Developed a tool which calculated the capacity of hosts and usage of applications to measure their utilization percentage over time which resulted in more accurate capacity planning.
-* Developed an alerting tool which allowed developers themselves to easily create Icinga alerts from data visualized in Grafana rather than relying on SREs to create the alerts.
+* Designed and developed a tool which calculated the utilization percentage of hosts over time, resulting in more accurate capacity planning.
+* Part of team that developed an alerting tool which allowed developers themselves to create Icinga alerts from data visualized in Grafana rather than relying on SREs to create them.
 * Linux, Perl, Moose, GitHub, MySQL, SaltStack, Jira, Icinga, Grafana, Sumo Logic, Ruby
 
 ## Senior Software Engineer  
