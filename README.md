@@ -20,11 +20,11 @@
 # Experience
 
 ## Build Engineer (contract)
-### [ActiveState](https://www.activestate.com) : 2020 - present
+### [ActiveState](https://www.activestate.com) : 2020
 
 * ActiveState is a Canadian company that creates custom builds of Perl and Python on various platforms for enterprise customers.
-* Designed and led the team that created an automated portability testing system using containers running on AWS.
-* Linux, Windows, macOS, Perl, Python, Docker, AWS (Lambda, SQS/SNS, ECS/ECR, CodeBuild, S3), CircleCI, VMWare, GitHub
+* Worked on the team developing an automated portability testing system using containers running on AWS.
+* Linux, Windows, macOS, Perl, Python, Golang, Docker, AWS (Lambda, SQS, Batch, ECR), GitHub
 
 ## Took a Year Off	2019 - 2020
 * Picked up Golang, Docker, and GitLab with a [personal project](https://gitlab.com/venchoware/smusma) during this period.
