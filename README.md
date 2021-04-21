@@ -26,7 +26,8 @@
 * Worked on the team developing an automated portability testing system using containers running on AWS.
 * Linux, Windows, macOS, Perl, Python, Golang, Docker, AWS (Lambda, SQS, Batch, ECR), GitHub
 
-## Took a Year Off	2019 - 2020
+## Took a Year Off	
+### 2019 - 2020
 * Picked up Golang, Docker, and GitLab with a [personal project](https://gitlab.com/venchoware/smusma) during this period.
 * Refreshed my Swift and iOS development knowledge.
 * Studied up on cloud architecture by reading *Cloud Native Patterns* by Cornelia Davis. Good book.
