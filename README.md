@@ -1,92 +1,174 @@
-# Michael Sullivan
-* (818) 325-7460
-* Beautiful, Sunny California
-* [michael@weightsnet.com](mailto:michael@weightsnet.com)
+# README for Michael Sullivan
 
-# OBJECTIVE
+## Who am I?
 
-* Senior Software Engineer / Team Lead / Manager position to use my years of experience to get things done and help develop developers.
+### Non-work
 
-# SKILLS
-* Decades of experience with *nix: Linux, macOS, Solaris, etc.
-* Languages: Perl, Golang, PHP, C, Bash, SQL
-* Been an individual contributor, team lead, scrum master, and a manager.
-* Misc tech: AWS, Git, Docker, Agile, TDD, CI/CD, NoSQL
-* Enjoy code reviews, giving and receiving, and helping junior programmers develop.
-* Experience working with non-technical users, bridging the gap between them and developers.
-* I am a backend and tools developer, *not* a full-stack developer.
+I have four brothers and one sister.
+We grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother still lives.
 
+I have two children, boy/girl twins, who are 22 years old.
+My daughter is going to graduate school in the fall on her way to a career in psychology.
+She is a *much* better student than her father was.
+My son would be happy to talk your ear off about books, movies, and TV shows.
 
-# Experience
+I went to college at UC Santa Barbara.
+After school I moved to Southern California, following my girlfriend
+who was going to graduate school at UCLA (and would become wife #1).
+I lived down there until 2019, when my wife (#2) and I moved back to Madera
+(my children are still down south).
+We did that because I was diagnosed with colon cancer and treatment was
+expected to take a year (which it did).
+I'm all better now. A little different but all better.
 
-## Build Engineer (contract)
-### [ActiveState](https://www.activestate.com) : 2020
+I started doing triathlons in 2009 and, while I have stopped running and
+swimming, I am an avid cyclist.
+I'm too big to be a racer but I do like taking long rides.
+I hope to take up long-distance touring someday with a dream of
+riding across the US.
 
-* ActiveState is a Canadian company that creates custom builds of Perl and Python on various platforms for enterprise customers.
-* Worked on the team developing an automated portability testing system using containers running on AWS.
-* Linux, Windows, macOS, Perl, Python, Golang, Docker, AWS (Lambda, SQS, Batch, ECR), GitHub
+I met my wife, Rosa, for the first time at our 30-year high school reunion.
+We didn't even *know of* each other before that.
+We were quite a topic of conversation at our next reunion.
 
-## Took a Year Off	
-### 2019 - 2020
-* Picked up Golang, Docker, and GitLab with a [personal project](https://gitlab.com/venchoware/smusma) during this period.
-* Refreshed my Swift and iOS development knowledge.
-* Studied up on cloud architecture by reading *Cloud Native Patterns* by Cornelia Davis. Good book.
- 
-## Software Engineer III  
-### [OpenX](https://www.openx.com) : 2015 - 2019
+I am quite the movie watcher and music listener.
+There is an actual iPod on my desk connected to speakers.
+I am overrun with music CDs and look forward to Bandcamp Fridays each month.
+I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 
-* Worked in the Automation Engineering team, which created tools and automation to help the SREs with their work. DevOps but more “Dev” than “Ops”.
-* Scrum Master for six-person team, which used TDD and CI/CD so reliably that it was the only group in the company that did not go through a Change Board process for releases.
-* Designed and developed a tool which calculated the utilization percentage of hosts over time, resulting in more accurate capacity planning.
-* Part of team that developed an alerting tool which allowed developers themselves to create Icinga alerts from data visualized in Grafana rather than relying on SREs to create them.
-* Linux, Perl, Moose, GitHub, MySQL, SaltStack, Jira, Icinga, Grafana, Sumo Logic, Ruby
+I enjoy working in the yard and garden.
+We're on an acre so there is plenty for me to do.
 
-## Senior Software Engineer  
-### Conversant : 2013 - 2015
+I even cook.
+During my first marriage I made all the meals but now I split the chef duties with my wife.
+We make pretty good meals, if I do say so myself.
 
-* Provided better access to the internal tool used to manage ad campaigns and inventory by designing and implementing a REST API with full CRUD functionality.
-* Won company’s “Fedex Day” 24-hour hacking contest by creating a hierarchical search engine for Cobalt using MongoDB.
-* Linux, Perl, Moose, Java, MongoDB, Perforce, CodeCollaborator, Jenkins, Jira
+### Work
 
-## Software Developer (contract)  
-### [Disney-ABC Television Group](https://abc.com) : 2012 - 2013
+When I started college, both the IBM PC and the Macintosh did not exist but they did when I finished.
+UCSB was using
+[BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+(Berkeley also being a UC school) so I have been using the vi(m) editor
+for a very long time.
 
-* Evangelized code reviews with presentations and guidance to other DATG teams as part of a department-wide effort to adopt better software engineering practices.
-* OS X, Linux, PHP, Zend, Alfresco, AWS, Subversion, Jira, Crucible
+I have been working as a software engineer for 35 years.
+My first job was as the first hire of a two-person startup.
+We wrote custom software for businesses running Unix
+([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
+was in high school at this time).
+Not a lot of work for us but we got by.
 
-## Quality Assurance and Change Management Analyst  
-### [Cast & Crew Entertainment Services](https://www.castandcrew.com) : 2008 - 2011
+A few years later I found myself working at Walt Disney Feature Animation,
+helping to make their
+[first digitally-produced](https://www.imdb.com/title/tt0100477/)
+(not CGI) movies.
+It really was the best job until it wasn’t.
+While almost every bit of software I’ve written is just gone,
+a hundred years after I’m dead there will be photons from my name
+in the credits of Beauty and the Beast flying around someone’s living room.
+That’s pretty cool.
 
-* Created automated testing for legacy software, as well as new software under development, where none had previously existed.
-* Responsible for building internally-developed software, running automated tests, and packaging for release. 
-* OS X, Linux, eggPlant, Subversion, Perl, MySQL, Bugzilla, Hudson, Rally
+After Disney I rode the original dotcom bubble,
+working for a number of fun and stupid companies.
+After the bubble burst, it was a succession of meh jobs:
+payroll for movies and TV shows,
+NBC and ABC,
+the company that was hosting my website,
+Ticketmaster, Yahoo!,
+I wrote a bulk-faxing system to send out confirmations for airlines and hotels, a printing company,
+and on and on...
 
-## Senior Software Engineer  
-### [4Over](https://4over.com) : 2006 - 2008
+All that time it was Unix and Linux.
+Writing C programs up unti the dotcom era, then it was Perl.
+Every so often I had to write PHP.
+I've gotten into Go in the last couple of years.
+Been working with relational databases from the start.
+I do mainly backend and tools work.
+You want me far away from front-end development.
+I have even been a QA engineer and a manager.
 
-* Designed and led the effort to implement a new production pipeline platform using an AJAX front end and a REST back end, including TDD.
-* Wrote tools to automate the previous production pipeline, helping the company handle double its business each year I was there.  
-* OS X, Solaris, Perl, PostgreSQL, Oracle, PHP, CVS
+I like cloud computing, just haven't had much professional experience.
+As a developer, I like that I can just use a message queue or a NoSQL database,
+rather than having to convince my employer to use one and having to go through
+a bake-off to see which we want to standardize on, blah, blah, blah.
+Love containers and the whole cloud architecture thing.
 
-## Senior Technical Yahoo
-### Yahoo\! Search Marketing : 2004 - 2006
+Been using agile, mainly scrum, for over ten years.
+I was even a scrum master for my dev team at a recent job.
+I've used it enough that I know it's not a silver bullet.
+I also know that it does give teams tools that they can use to build a process that works just fine for them.
 
-* Designed and implemented the software release procedure and tools for the team where none had existed before, which also helped bring the division into compliance with SOX.
-* Change Coordinator for all team software releases. Responsible for coordinating, packaging, documenting, and deploying each release as well being the group liaison with QA.
-* Linux, OS X, Perl, Apache, Bash, Oracle, MySQL, CVS, Bugzilla
+### Trivia
 
-## Manager of Internal Engineering
-### Virtualis Systems : 1999 - 2000
-* Managed a team of eight software developers for this web hosting company.
-* Department was responsible for the development and maintenance of software used by internal and external customers.
-* Responsibilities included hiring software engineers, employee reviews, project management, technical leadership, and software development.
-* FreeBSD, Perl, MySQL, Apache, PHP, CVS
+* I’m in the [Internet Movie Database](https://www.imdb.com/name/nm0838250)
+* I have pulled someone out of a burning car
+* The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 
-## Senior Software Engineer  
-### [Walt Disney Feature Animation](https://www.disneyanimation.com) : 1990 - 1999
+## Goals
 
-* Started by providing front-line support for [CAPS (Computer Animation Production System)](https://en.wikipedia.org/wiki/Computer_Animation_Production_System), starting with the first all-digital feature film ever made: [*The Rescuers Down Under*](https://www.imdb.com/title/tt0100477/reference).
-* Helped artists and other non-technical workers with decades of experience learn and transition to using computers for the production of animated movies.
-* Next, developed CAPS enhancements and bug-fixes as responsibility for CAPS software development transferred from Pixar to Disney.
-* Became lead for three senior developers. Determined items to be included in software releases, release scheduling, software development, and led training sessions for new releases.
-* Unix (Solaris, IRIX, HP/UX), C, ClearCase, Informix, system administration
+### Learning goals
+
+Cloud-native architecture.
+You know: "This lambda talks to that message queue which tells the application
+running in these containers to put something in a database then tell another
+message queue to have a notification app send a success message."
+All of which does proper logging, is well-monitored, gives great telemetry,
+restarts things when they die, and is deployed with CI/CD.
+I'd like to learn more about designing that.
+
+### Career goals
+
+Lately, my career goal was to manage people.
+Managing a team of developers, not managing managers.
+I think I am better suited for that.
+However, in 18F there are so many interesting opportunities popping up
+all that time that now I am more focused on being useful wherever I am needed.
+A new goal will come into focus at some point.
+
+## You can lean on me to…
+
+If you (or a friend) need to be convinced to get a colonoscopy when your doctor recommends it, I can do that.
+I actually have a talk I gave on the whole "journey" through treatment and recovery.
+
+More work-related, I'm a crusty old-timer so I've seen a lot.
+If a situation comes up that you don't know how to handle,
+maybe I've been there and can offer helpful words.
+I'm also helpful for code reviews and offering honest opinions on things.
+
+## How to support me as we work together
+
+Bring donuts and/or chocolate.
+
+## How to support me as a person
+
+I ask that you give me the benefit of the doubt.
+I always try to do the right thing so if it seems like I am doing the wrong thing,
+know that my intentions are good and honorable.
+I respond well to constructive criticism.
+
+## Ways of working together
+
+## Teamwork preferences
+
+At companies that hire well, I find teams just come together.
+I suspect that will be the case here, too.
+Just make sure everyone who wants to offer an opinion is able to.
+
+## Technical preferences
+
+Mac
+iPhone
+vi(m)
+Unix/Linux
+Go
+Perl
+
+## Feedback preferences
+
+As long as it is honest and constructive, the medium is irrelevant to me.
+Just give it to me in a timely manner.
+
+## Giving feedback on this document
+
+What? You're saying this isn't perfect!? Hmph.
+
