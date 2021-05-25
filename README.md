@@ -30,7 +30,7 @@ This year (2021) I finally had room to get my pretty decent weight equipment bac
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
 
-I met my wife, Rosa, for the first time at our 30-year high school reunion.
+I met wife #2 for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
 We were quite a topic of conversation at our next reunion.
 
