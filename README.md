@@ -12,7 +12,7 @@ My daughter is going to graduate school in the fall on her way to a career in ps
 She is a *much* better student than her father was.
 My son would be happy to talk your ear off about books, movies, and TV shows.
 
-I went to college at UC Santa Barbara.
+I went to college at [UC Santa Barbara](https://www.ucsb.edu).
 After school I moved to Southern California, following my girlfriend
 who was going to graduate school at UCLA (and would become wife #1).
 I lived down there until 2019, when my wife (#2) and I moved back to Madera
@@ -31,8 +31,9 @@ I met my wife, Rosa, for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
 We were quite a topic of conversation at our next reunion.
 
-I am quite the movie watcher and music listener.
+I enjoy listening to music and watching movies.
 There is an actual iPod on my desk connected to speakers.
+I enjoy different types of music but, deep down, I am quite the metal-head.🤘
 I am overrun with music CDs and look forward to Bandcamp Fridays each month.
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 
@@ -41,7 +42,7 @@ We're on an acre so there is plenty for me to do.
 
 I even cook.
 During my first marriage I made all the meals but now I split the chef duties with my wife.
-We make pretty good meals, if I do say so myself.
+We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
 
 ### Work
 
@@ -52,7 +53,7 @@ UCSB was using
 for a very long time.
 
 I have been working as a software engineer for 35 years.
-My first job was as the first hire of a two-person startup.
+My first job after school was as the first hire of a two-person startup.
 We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
 was in high school at this time).
@@ -63,9 +64,10 @@ helping to make their
 [first digitally-produced](https://www.imdb.com/title/tt0100477/)
 (not CGI) movies.
 It really was the best job until it wasn’t.
-While almost every bit of software I’ve written is just gone,
+While almost every bit of software I’ve written is (poof!) gone,
 a hundred years after I’m dead there will be photons from my name
-in the credits of Beauty and the Beast flying around someone’s living room.
+in the credits of [Beauty and the Beast](https://www.imdb.com/title/tt0101414/?ref_=nv_sr_srsg_3)
+flying around someone’s living room.
 That’s pretty cool.
 
 After Disney I rode the original dotcom bubble,
@@ -75,11 +77,12 @@ payroll for movies and TV shows,
 NBC and ABC,
 the company that was hosting my website,
 Ticketmaster, Yahoo!,
-I wrote a bulk-faxing system to send out confirmations for airlines and hotels, a printing company,
+I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
+a printing company,
 and on and on...
 
 All that time it was Unix and Linux.
-Writing C programs up unti the dotcom era, then it was Perl.
+Writing C programs up until the dotcom era, then it was Perl.
 Every so often I had to write PHP.
 I've gotten into Go in the last couple of years.
 Been working with relational databases from the start.
@@ -103,6 +106,8 @@ I also know that it does give teams tools that they can use to build a process t
 * I’m in the [Internet Movie Database](https://www.imdb.com/name/nm0838250)
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
+* My hair used to be quite a bit longer than it is now
+* I've even attended the Academy Awards
 
 ## Goals
 
@@ -130,7 +135,7 @@ A new goal will come into focus at some point.
 If you (or a friend) need to be convinced to get a colonoscopy when your doctor recommends it, I can do that.
 I actually have a talk I gave on the whole "journey" through treatment and recovery.
 
-More work-related, I'm a crusty old-timer so I've seen a lot.
+More work-related: I'm a crusty old-timer so I've seen a lot.
 If a situation comes up that you don't know how to handle,
 maybe I've been there and can offer helpful words.
 I'm also helpful for code reviews and offering honest opinions on things.
@@ -151,17 +156,18 @@ I respond well to constructive criticism.
 ## Teamwork preferences
 
 At companies that hire well, I find teams just come together.
-I suspect that will be the case here, too.
+I suspect that will be the case here at 18F, too.
 Just make sure everyone who wants to offer an opinion is able to.
 
 ## Technical preferences
 
-Mac
-iPhone
-vi(m)
-Unix/Linux
-Go
-Perl
+* Mac
+* iPhone
+* vi(m)
+* Unix/Linux
+* Go
+* Perl
+* MP3 320 VBR
 
 ## Feedback preferences
 
