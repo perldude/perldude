@@ -22,10 +22,13 @@ expected to take a year (which it did).
 I'm all better now. A little different but all better.
 
 I started doing triathlons in 2009 and, while I have stopped running and
-swimming, I am an avid cyclist.
+swimming, I am an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a racer but I do like taking long rides.
 I hope to take up long-distance touring someday with a dream of
 riding across the US.
+This year (2021) I finally had room to get my pretty decent weight equipment back
+and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
+It's fun.
 
 I met my wife, Rosa, for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
