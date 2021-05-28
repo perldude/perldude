@@ -37,7 +37,7 @@ We were quite a topic of conversation at our next reunion.
 I enjoy listening to music and watching movies.
 There is an actual iPod on my desk connected to speakers.
 I enjoy different types of music but, deep down, I am quite the metal-head.🤘
-I am overrun with music CDs and look forward to Bandcamp Fridays each month.
+I am overrun with music CDs and look forward to [Bandcamp Fridays](https://isitbandcampfriday.com) each month.
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 
 I enjoy working in the yard and garden.
@@ -55,7 +55,7 @@ UCSB was using
 (Berkeley also being a UC school) so I have been using the vi(m) editor
 for a very long time.
 
-I have been working as a software engineer for 35 years.
+I have been working as a software developer for 35 years.
 My first job after school was as the first hire of a two-person startup.
 We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
