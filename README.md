@@ -10,7 +10,7 @@ We grew up in towns around Fresno, California, finally settling in [Madera](http
 I have two children, boy/girl twins, who are 22 years old.
 My daughter is going to graduate school in the fall on her way to a career in psychology.
 She is a *much* better student than her father was.
-My son would be happy to talk your ear off about books, movies, and TV shows.
+My son would be happy to talk your ears off about books, movies, and TV shows.
 
 I went to college at [UC Santa Barbara](https://www.ucsb.edu).
 After school I moved to Southern California, following my girlfriend
@@ -55,7 +55,7 @@ UCSB was using
 (Berkeley also being a UC school) so I have been using the vi(m) editor
 for a very long time.
 
-I have been working as a software developer for 35 years.
+I have been working as a software developer for over 35 years.
 My first job after school was as the first hire of a two-person startup.
 We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
@@ -93,7 +93,7 @@ I do mainly backend and tools work.
 You want me far away from front-end development.
 I have even been a QA engineer and a manager.
 
-I like cloud computing, just haven't had much professional experience.
+I like cloud computing but haven't had much professional experience.
 As a developer, I like that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to use one and having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
@@ -110,6 +110,7 @@ I also know that it does give teams tools that they can use to build a process t
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
+* There are >40,000 songs in my iTunes and most of them were actually bought.
 * I've even attended the Academy Awards
 
 ## Goals
@@ -126,41 +127,29 @@ I'd like to learn more about designing that.
 
 ### Career goals
 
-Lately, my career goal was to manage people.
+My most recent career goal was to manage people.
 Managing a team of developers, not managing managers.
 I think I am better suited for that.
 However, in 18F there are so many interesting opportunities popping up
 all that time that now I am more focused on being useful wherever I am needed.
 A new goal will come into focus at some point.
 
-## You can lean on me to…
-
-If you (or a friend) need to be convinced to get a colonoscopy when your doctor recommends it, I can do that.
-I actually have a talk I gave on the whole "journey" through treatment and recovery.
-
-More work-related: I'm a crusty old-timer so I've seen a lot.
-If a situation comes up that you don't know how to handle,
-maybe I've been there and can offer helpful words.
-I'm also helpful for code reviews and offering honest opinions on things.
-
-## How to support me as we work together
-
-Bring donuts and/or chocolate.
-
-## How to support me as a person
+## How to support me
 
 I ask that you give me the benefit of the doubt.
 I always try to do the right thing so if it seems like I am doing the wrong thing,
 know that my intentions are good and honorable.
 I respond well to constructive criticism.
 
-## Ways of working together
+Also, I like chocolate.
 
-## Teamwork preferences
+## My meeting style
 
-At companies that hire well, I find teams just come together.
-I suspect that will be the case here at 18F, too.
-Just make sure everyone who wants to offer an opinion is able to.
+I tend to keep quiet in meetings.
+It's not because I'm sleeping.
+I am happy to let the discussions go where they will, which is easy to do with smart people in the meeting.
+If there is a point that I feel needs to be brought up, I'll bring it up.
+I want to *add* to the discussion and not talk just for the sake of talking.
 
 ## Technical preferences
 
@@ -171,13 +160,3 @@ Just make sure everyone who wants to offer an opinion is able to.
 * Go
 * Perl
 * MP3 320 VBR
-
-## Feedback preferences
-
-As long as it is honest and constructive, the medium is irrelevant to me.
-Just give it to me in a timely manner.
-
-## Giving feedback on this document
-
-What? You're saying this isn't perfect!? Hmph.
-
