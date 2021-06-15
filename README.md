@@ -113,18 +113,6 @@ I also know that it does give teams tools that they can use to build a process t
 * There are >40,000 songs in my iTunes and most of them were actually bought.
 * I've even attended the Academy Awards
 
-## Goals
-
-### Learning goals
-
-Cloud-native architecture.
-You know: "This lambda talks to that message queue which tells the application
-running in these containers to put something in a database then tell another
-message queue to have a notification app send a success message."
-All of which does proper logging, is well-monitored, gives great telemetry,
-restarts things when they die, and is deployed with CI/CD.
-I'd like to learn more about designing that.
-
 ### Career goals
 
 My most recent career goal was to manage people.
