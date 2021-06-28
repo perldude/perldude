@@ -1,8 +1,6 @@
 # README for Michael Sullivan
 
-## Who am I?
-
-### Non-work
+## Non-work
 
 I have four brothers and one sister.
 We grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother still lives.
@@ -47,7 +45,25 @@ I even cook.
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
 
-### Work
+### Trivia
+
+* I’m in the [Internet Movie Database](https://www.imdb.com/name/nm0838250)
+* I have pulled someone out of a burning car
+* The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
+* My hair used to be quite a bit longer than it is now
+* There are >40,000 songs in my iTunes and most of them were actually bought.
+* I've even attended the Academy Awards
+
+### Technical preferences
+
+* Mac
+* iPhone
+* vi(m)
+* Unix/Linux
+* Perl and Go
+* MP3 320 VBR
+
+## Work
 
 When I started college, both the IBM PC and the Macintosh did not exist but they did when I finished.
 UCSB was using
@@ -104,34 +120,28 @@ I was even a scrum master for my dev team at a recent job.
 I've used it enough that I know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
 
-### Trivia
-
-* I’m in the [Internet Movie Database](https://www.imdb.com/name/nm0838250)
-* I have pulled someone out of a burning car
-* The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
-* My hair used to be quite a bit longer than it is now
-* There are >40,000 songs in my iTunes and most of them were actually bought.
-* I've even attended the Academy Awards
-
 ### Career goals
 
 My most recent career goal was to manage people.
 Managing a team of developers, not managing managers.
 I think I am better suited for that.
 However, in 18F there are so many interesting opportunities popping up
-all that time that now I am more focused on being useful wherever I am needed.
-A new goal will come into focus at some point.
+that I am focused on being useful wherever I am needed.
 
-## How to support me
+### Please keep in mind...
 
 I ask that you give me the benefit of the doubt.
 I always try to do the right thing so if it seems like I am doing the wrong thing,
 know that my intentions are good and honorable.
 I respond well to constructive criticism.
 
+If I tell you that I don't understand what you're saying, it's because I actually don't understand what you're saying.
+I'm not faking or trying to be a jerk.
+I really don't understand so, please, patiently help me understand.
+
 Also, I like chocolate.
 
-## My meeting style
+### My meeting style
 
 I tend to keep quiet in meetings.
 It's not because I'm sleeping.
@@ -139,12 +149,60 @@ I am happy to let the discussions go where they will, which is easy to do with s
 If there is a point that I feel needs to be brought up, I'll bring it up.
 I want to *add* to the discussion and not talk just for the sake of talking.
 
-## Technical preferences
+## Music
 
-* Mac
-* iPhone
-* vi(m)
-* Unix/Linux
-* Go
-* Perl
-* MP3 320 VBR
+### My Ten Desert Island Songs
+
+* Baker Street - Gerry Rafferty
+* Mowgli's Road - Marina
+* Good for You - Caterwaul
+* Dazed and Confused - Led Zeppelin
+* Paranoid - Black Sabbath
+* Epitaph - King Crimson
+* The Ecstasy of Gold - Ennio Morricone
+* Love Is Blue - Paul Mauriat
+* Fotheringay - Fairport Convention
+* Nights in White Satin - The Moody Blues
+
+### My Ten Desert Island Albums
+
+* The Good, The Bad, and The Ugly - Ennio Morricone
+* The Doors - The Doors
+* Days of Future Passed - The Moody Blues
+* What We Did On Our Holidays - Fairport Convention
+* Paranoid - Black Sabbath
+* Goodbye Yellow Brick Road - Elton John
+* Scarlet and Other Stories - All About Eve
+* Frampton Comes Alive! - Peter Frampton
+* In the Court of the Crimson King - King Crimson
+* A Night at the Opera - Queen
+
+### The 25 Best Singles of the Rock Era*
+
+* Bohemian Rhapsody - Queen
+* Satisfaction - The Rolling Stones
+* The House of the Rising Sun - The Animals
+* Nights in White Satin - The Moody Blues
+* We're An American Band - Grand Funk
+* Rock Around the Clock - Bill Haley and His Comets
+* Born to Be Wild - Steppenwolf
+* Long Tall Sally - Little Richard
+* War - Edwin Starr
+* Oh Girl - The Chi-Lites
+* Show and Tell - Al Wilson
+* Inner City Blues - Marvin Gaye
+* California Dreamin' - The Mamas and The Papas
+* Baker Street - Gerry Rafferty
+* In-A-Gadda-Da-Vida - Iron Butterly
+* One Fine Day - The Chiffons
+* A Hard Day's Night - The Beatles
+* Blue Moon - The Marcels
+* These Boots Are Made For Walkin' - Nancy Sinatra
+* Welcome to the Jungle - Guns n' Roses
+* Jailhouse Rock - Elvis Presley
+* Papa's Got a Brand New Bag - James Brown
+* Epitaph - King Crimson
+* Paranoid - Black Sabbath
+* Holiday in Cambodia - Dead Kennedys
+
+\* - Don't ask me to make it smaller. That is impossible.
