@@ -206,3 +206,62 @@ I want to *add* to the discussion and not talk just for the sake of talking.
 * Holiday in Cambodia - Dead Kennedys
 
 \* - Don't ask me to make it smaller. That is impossible.
+
+## Movies & TV Shows
+
+### Things I have rated "10" at IMDB
+
+* The Shawshank Redemption
+* The Godfather
+* Schindler's List
+* Pulp Fiction
+* The Good, The Bad and The Ugly
+* Forrest Gump
+* Fawlty Towers
+* The Silence of the Lambs
+* Se7en
+* Edge of Darkness (1985)
+* Casablanca
+* Terminator 2: Judgement Day
+* Alien
+* Avengers: Endgame
+* Aliens
+* Braveheart
+* Inglourious Basterds
+* Downfall
+* Casino
+* Sledge Hammer!
+* Monty Python and the Holy Grail
+* Kill Bill: Vol 1
+* The Princess Bride
+* Monty Python's Life of Brian
+* The Martian
+* La La Land
+* Young Frankenstein
+* The Wizard of Oz
+* Bohemian Rhapsody
+* Jojo Rabbit
+* The Artist
+* Crouching Tiger, Hidden Dragon
+* Rogue One: A Star Wars Story
+* The Big Short
+* Skyfall
+* Star Trek II: The Wrath of Khan
+* Airplane!
+* The Scarlet Pimpernel (1982)
+* Romeo and Juliet (1968)
+* Once Upon a Time...In Hollywood
+* Mad Max 2: The Road Warrior
+* 300
+* Malena
+* Dear Basketball
+* Clerks II
+* Ashes of Time
+* The Foreigner
+* Greyhound
+* That Thing You Do!
+* Mad Max
+* The Comedy of Terrors
+* Atomic Blonde
+* The Adventures of Ford Fairlane
+* Godzilla vs. Kong
