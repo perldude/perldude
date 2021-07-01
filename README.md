@@ -1,5 +1,102 @@
 # README for Michael Sullivan
 
+## Work
+
+### History
+
+When I started college, both the IBM PC and the Macintosh did not exist but they did when I finished.
+UCSB was using
+[BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+(Berkeley also being a UC school) so I have been using the vi(m) editor
+for a very long time.
+
+I have been working as a software developer for over 35 years.
+My first job after school was as the first hire of a two-person startup.
+We wrote custom software for businesses running Unix
+([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
+was in high school at this time).
+Not a lot of work for us but we got by.
+
+A few years later I found myself working at Walt Disney Feature Animation,
+helping to make their
+[first digitally-produced](https://www.imdb.com/title/tt0100477/)
+(not CGI) movies.
+It really was the best job until it wasn’t.
+While almost every bit of software I’ve written is (poof!) gone,
+a hundred years after I’m dead there will be photons from my name
+in the credits of [Beauty and the Beast](https://www.imdb.com/title/tt0101414/?ref_=nv_sr_srsg_3)
+flying around someone’s living room.
+That’s pretty cool.
+
+After Disney I rode the original dotcom bubble,
+working for a number of fun and stupid companies.
+After the bubble burst, it was a succession of meh jobs:
+payroll for movies and TV shows,
+NBC and ABC,
+the company that was hosting my website,
+Ticketmaster, Yahoo!,
+I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
+a printing company,
+and on and on...
+
+All that time it was Unix and Linux.
+Writing C programs up until the dotcom era, then it was Perl.
+Every so often I had to write PHP.
+I've gotten into Go in the last couple of years.
+Been working with relational databases from the start.
+I do mainly backend and tools work.
+You want me far away from front-end development.
+I have even been a QA engineer and a manager.
+
+I like cloud computing but haven't had much professional experience.
+As a developer, I like that I can just use a message queue or a NoSQL database,
+rather than having to convince my employer to use one and having to go through
+a bake-off to see which we want to standardize on, blah, blah, blah.
+Love containers and the whole cloud architecture thing.
+
+Been using agile, mainly scrum, for over ten years.
+I was even a scrum master for my dev team at a recent job.
+I've used it enough that I know it's not a silver bullet.
+I also know that it does give teams tools that they can use to build a process that works just fine for them.
+
+### 18F
+
+#### Lessons Learned
+
+Here are some lessons I have learned while at 18F:
+
+* If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A to find out exactly what they said and want.
+* People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
+
+### Career goals
+
+My most recent career goal was to manage people.
+Managing a team of developers, not managing managers.
+I think I am better suited for that.
+However, in 18F there are so many interesting opportunities popping up
+that I am focused on being useful wherever I am needed.
+
+### Please keep in mind...
+
+I ask that you give me the benefit of the doubt.
+I always try to do the right thing so if it seems like I am doing the wrong thing,
+know that my intentions are good and honorable.
+I respond well to constructive criticism.
+
+If I tell you that I don't understand what you're saying, it's because I actually don't understand what you're saying.
+I'm not faking or trying to be a jerk.
+I really don't understand so, please, patiently help me understand.
+
+Also, I like chocolate.
+
+### My meeting style
+
+I tend to keep quiet in meetings.
+It's not because I'm sleeping.
+I am happy to let the discussions go where they will, which is easy to do with smart people in the meeting.
+If there is a point that I feel needs to be brought up, I'll bring it up.
+I want to *add* to the discussion and not talk just for the sake of talking.
+
 ## Non-work
 
 I have four brothers and one sister.
@@ -63,95 +160,9 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * Perl and Go
 * MP3 320 VBR
 
-## Work
+### Music
 
-When I started college, both the IBM PC and the Macintosh did not exist but they did when I finished.
-UCSB was using
-[BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
-(Berkeley also being a UC school) so I have been using the vi(m) editor
-for a very long time.
-
-I have been working as a software developer for over 35 years.
-My first job after school was as the first hire of a two-person startup.
-We wrote custom software for businesses running Unix
-([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
-was in high school at this time).
-Not a lot of work for us but we got by.
-
-A few years later I found myself working at Walt Disney Feature Animation,
-helping to make their
-[first digitally-produced](https://www.imdb.com/title/tt0100477/)
-(not CGI) movies.
-It really was the best job until it wasn’t.
-While almost every bit of software I’ve written is (poof!) gone,
-a hundred years after I’m dead there will be photons from my name
-in the credits of [Beauty and the Beast](https://www.imdb.com/title/tt0101414/?ref_=nv_sr_srsg_3)
-flying around someone’s living room.
-That’s pretty cool.
-
-After Disney I rode the original dotcom bubble,
-working for a number of fun and stupid companies.
-After the bubble burst, it was a succession of meh jobs:
-payroll for movies and TV shows,
-NBC and ABC,
-the company that was hosting my website,
-Ticketmaster, Yahoo!,
-I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
-a printing company,
-and on and on...
-
-All that time it was Unix and Linux.
-Writing C programs up until the dotcom era, then it was Perl.
-Every so often I had to write PHP.
-I've gotten into Go in the last couple of years.
-Been working with relational databases from the start.
-I do mainly backend and tools work.
-You want me far away from front-end development.
-I have even been a QA engineer and a manager.
-
-I like cloud computing but haven't had much professional experience.
-As a developer, I like that I can just use a message queue or a NoSQL database,
-rather than having to convince my employer to use one and having to go through
-a bake-off to see which we want to standardize on, blah, blah, blah.
-Love containers and the whole cloud architecture thing.
-
-Been using agile, mainly scrum, for over ten years.
-I was even a scrum master for my dev team at a recent job.
-I've used it enough that I know it's not a silver bullet.
-I also know that it does give teams tools that they can use to build a process that works just fine for them.
-
-### Career goals
-
-My most recent career goal was to manage people.
-Managing a team of developers, not managing managers.
-I think I am better suited for that.
-However, in 18F there are so many interesting opportunities popping up
-that I am focused on being useful wherever I am needed.
-
-### Please keep in mind...
-
-I ask that you give me the benefit of the doubt.
-I always try to do the right thing so if it seems like I am doing the wrong thing,
-know that my intentions are good and honorable.
-I respond well to constructive criticism.
-
-If I tell you that I don't understand what you're saying, it's because I actually don't understand what you're saying.
-I'm not faking or trying to be a jerk.
-I really don't understand so, please, patiently help me understand.
-
-Also, I like chocolate.
-
-### My meeting style
-
-I tend to keep quiet in meetings.
-It's not because I'm sleeping.
-I am happy to let the discussions go where they will, which is easy to do with smart people in the meeting.
-If there is a point that I feel needs to be brought up, I'll bring it up.
-I want to *add* to the discussion and not talk just for the sake of talking.
-
-## Music
-
-### My Ten Desert Island Songs
+#### My Ten Desert Island Songs
 
 * Baker Street - Gerry Rafferty
 * Mowgli's Road - Marina
@@ -164,7 +175,7 @@ I want to *add* to the discussion and not talk just for the sake of talking.
 * Fotheringay - Fairport Convention
 * Nights in White Satin - The Moody Blues
 
-### My Ten Desert Island Albums
+#### My Ten Desert Island Albums
 
 * The Good, The Bad, and The Ugly - Ennio Morricone
 * The Doors - The Doors
@@ -177,7 +188,7 @@ I want to *add* to the discussion and not talk just for the sake of talking.
 * In the Court of the Crimson King - King Crimson
 * A Night at the Opera - Queen
 
-### The 25 Best Singles of the Rock Era*
+#### The 25 Best Singles of the Rock Era*
 
 * Bohemian Rhapsody - Queen
 * Satisfaction - The Rolling Stones
@@ -207,9 +218,9 @@ I want to *add* to the discussion and not talk just for the sake of talking.
 
 \* - Don't ask me to make it smaller. That is impossible.
 
-## Movies & TV Shows
+### Movies & TV Shows
 
-### Things I have rated "10" at IMDB
+#### Things I have rated "10" at IMDB
 
 * The Shawshank Redemption
 * The Godfather
