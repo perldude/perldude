@@ -164,29 +164,29 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 
 #### My Ten Desert Island Songs
 
-* Baker Street - Gerry Rafferty
-* Mowgli's Road - Marina
-* Good for You - Caterwaul
-* Dazed and Confused - Led Zeppelin
-* Paranoid - Black Sabbath
-* Epitaph - King Crimson
-* The Ecstasy of Gold - Ennio Morricone
-* Love Is Blue - Paul Mauriat
-* Fotheringay - Fairport Convention
-* Nights in White Satin - The Moody Blues
+* [Baker Street](https://www.youtube.com/watch?v=Fo6aKnRnBxM) - Gerry Rafferty
+* [Mowgli's Road](https://www.youtube.com/watch?v=zwfCjYv7gVQ) - Marina
+* [Good for You](https://www.youtube.com/watch?v=qB5V1Wu6F5Y) - Caterwaul
+* [Dazed and Confused](https://www.youtube.com/watch?v=w772GXG5LnE) - Led Zeppelin
+* [Paranoid](https://www.youtube.com/watch?v=0qanF-91aJo) - Black Sabbath
+* [Epitaph](https://www.youtube.com/watch?v=vXrpFxHfppI) - King Crimson
+* [The Ecstasy of Gold](https://www.youtube.com/watch?v=PYI09PMNazw) - Ennio Morricone
+* [Love Is Blue](https://www.youtube.com/watch?v=Y_tPE3o5NWk) - Paul Mauriat
+* [Fotheringay](https://www.youtube.com/watch?v=sFnQaFVHdsE) - Fairport Convention
+* [Nights in White Satin](https://www.youtube.com/watch?v=iVusUjyby18) - The Moody Blues
 
 #### My Ten Desert Island Albums
 
-* The Good, The Bad, and The Ugly - Ennio Morricone
-* The Doors - The Doors
-* Days of Future Passed - The Moody Blues
-* What We Did On Our Holidays - Fairport Convention
-* Paranoid - Black Sabbath
-* Goodbye Yellow Brick Road - Elton John
-* Scarlet and Other Stories - All About Eve
-* Frampton Comes Alive! - Peter Frampton
-* In the Court of the Crimson King - King Crimson
-* A Night at the Opera - Queen
+* [The Good, The Bad, and The Ugly](https://www.youtube.com/playlist?list=PLqnnuEVGcRQy1rMg6--5M-2o-LzOwSnMr) - Ennio Morricone
+* [The Doors](https://www.youtube.com/playlist?list=OLAK5uy_mx98OhRuCf1iPS49rGdS-PxBTvjXdlU6I) - The Doors
+* [Days of Future Passed](https://www.youtube.com/playlist?list=OLAK5uy_nSiT1ym_voqD4XKsgRV2WoCiWl_jyhj-E) - The Moody Blues
+* [What We Did On Our Holidays](https://www.youtube.com/playlist?list=OLAK5uy_lVE0HykEo5__2jIFaxWNuL0_fsGAbgkNg) - Fairport Convention
+* [Paranoid](https://www.youtube.com/playlist?list=OLAK5uy_lnfEyjhuX9BNJc5UpgOQEu0gebOtPkJG4) - Black Sabbath
+* [Goodbye Yellow Brick Road](https://www.youtube.com/playlist?list=OLAK5uy_mfrVeP01Fp1Cpa__JtGwqoxYeBfqz_c6E) - Elton John
+* [Scarlet and Other Stories](https://www.youtube.com/playlist?list=OLAK5uy_lSBR5RvCmIbYbYNzVzQpf8Ko3h9Q0tDXQ) - All About Eve
+* [Frampton Comes Alive!](https://www.youtube.com/playlist?list=OLAK5uy_lkrhRgiTczPNnbopoxjsA4eBiiyW1FGAk) - Peter Frampton
+* [In the Court of the Crimson King](https://www.youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U) - King Crimson
+* [A Night at the Opera](https://www.youtube.com/playlist?list=OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8) - Queen
 
 #### The 25 Best Singles of the Rock Era*
 
