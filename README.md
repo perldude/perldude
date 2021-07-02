@@ -162,18 +162,18 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 
 ### Music
 
-#### My Ten Desert Island Songs
+#### My Ten Desert Island Songs (in playlist order)
 
-* [Baker Street](https://www.youtube.com/watch?v=Fo6aKnRnBxM) - Gerry Rafferty
-* [Mowgli's Road](https://www.youtube.com/watch?v=zwfCjYv7gVQ) - Marina
-* [Good for You](https://www.youtube.com/watch?v=qB5V1Wu6F5Y) - Caterwaul
-* [Dazed and Confused](https://www.youtube.com/watch?v=w772GXG5LnE) - Led Zeppelin
-* [Paranoid](https://www.youtube.com/watch?v=0qanF-91aJo) - Black Sabbath
-* [Epitaph](https://www.youtube.com/watch?v=vXrpFxHfppI) - King Crimson
-* [The Ecstasy of Gold](https://www.youtube.com/watch?v=PYI09PMNazw) - Ennio Morricone
-* [Love Is Blue](https://www.youtube.com/watch?v=Y_tPE3o5NWk) - Paul Mauriat
-* [Fotheringay](https://www.youtube.com/watch?v=sFnQaFVHdsE) - Fairport Convention
-* [Nights in White Satin](https://www.youtube.com/watch?v=iVusUjyby18) - The Moody Blues
+1. [Baker Street](https://www.youtube.com/watch?v=Fo6aKnRnBxM) - Gerry Rafferty
+1. [Mowgli's Road](https://www.youtube.com/watch?v=zwfCjYv7gVQ) - Marina
+1. [Good for You](https://www.youtube.com/watch?v=qB5V1Wu6F5Y) - Caterwaul
+1. [Dazed and Confused](https://www.youtube.com/watch?v=w772GXG5LnE) - Led Zeppelin
+1. [Paranoid](https://www.youtube.com/watch?v=0qanF-91aJo) - Black Sabbath
+1. [Epitaph](https://www.youtube.com/watch?v=vXrpFxHfppI) - King Crimson
+1. [The Ecstasy of Gold](https://www.youtube.com/watch?v=PYI09PMNazw) - Ennio Morricone
+1. [Love Is Blue](https://www.youtube.com/watch?v=Y_tPE3o5NWk) - Paul Mauriat
+1. [Fotheringay](https://www.youtube.com/watch?v=sFnQaFVHdsE) - Fairport Convention
+1. [Nights in White Satin](https://www.youtube.com/watch?v=iVusUjyby18) - The Moody Blues
 
 #### My Ten Desert Island Albums
 
@@ -188,33 +188,33 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [In the Court of the Crimson King](https://www.youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U) - King Crimson
 * [A Night at the Opera](https://www.youtube.com/playlist?list=OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8) - Queen
 
-#### The 25 Best Singles of the Rock Era*
+#### The 25 Best Singles of the Rock Era* (in playlist order)
 
-* Bohemian Rhapsody - Queen
-* Satisfaction - The Rolling Stones
-* The House of the Rising Sun - The Animals
-* Nights in White Satin - The Moody Blues
-* We're An American Band - Grand Funk
-* Rock Around the Clock - Bill Haley and His Comets
-* Born to Be Wild - Steppenwolf
-* Long Tall Sally - Little Richard
-* War - Edwin Starr
-* Oh Girl - The Chi-Lites
-* Show and Tell - Al Wilson
-* Inner City Blues - Marvin Gaye
-* California Dreamin' - The Mamas and The Papas
-* Baker Street - Gerry Rafferty
-* In-A-Gadda-Da-Vida - Iron Butterly
-* One Fine Day - The Chiffons
-* A Hard Day's Night - The Beatles
-* Blue Moon - The Marcels
-* These Boots Are Made For Walkin' - Nancy Sinatra
-* Welcome to the Jungle - Guns n' Roses
-* Jailhouse Rock - Elvis Presley
-* Papa's Got a Brand New Bag - James Brown
-* Epitaph - King Crimson
-* Paranoid - Black Sabbath
-* Holiday in Cambodia - Dead Kennedys
+1. Rock Around the Clock - Bill Haley and His Comets
+1. Jailhouse Rock - Elvis Presley
+1. One Fine Day - The Chiffons
+1. Blue Moon - The Marcels
+1. Papa's Got a Brand New Bag - James Brown
+1. A Hard Day's Night - The Beatles
+1. Satisfaction - The Rolling Stones
+1. Born to Be Wild - Steppenwolf
+1. In-A-Gadda-Da-Vida - Iron Butterly
+1. We're An American Band - Grand Funk
+1. Long Tall Sally - Little Richard
+1. Welcome to the Jungle - Guns n' Roses
+1. Paranoid - Black Sabbath
+1. Holiday in Cambodia - Dead Kennedys
+1. War - Edwin Starr
+1. Inner City Blues - Marvin Gaye
+1. Oh Girl - The Chi-Lites
+1. Show and Tell - Al Wilson
+1. The House of the Rising Sun - The Animals
+1. Baker Street - Gerry Rafferty
+1. California Dreamin' - The Mamas and The Papas
+1. These Boots Are Made For Walkin' - Nancy Sinatra
+1. Epitaph - King Crimson
+1. Nights in White Satin - The Moody Blues
+1. Bohemian Rhapsody - Queen
 
 \* - Don't ask me to make it smaller. That is impossible.
 
