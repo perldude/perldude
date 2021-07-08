@@ -97,6 +97,20 @@ I am happy to let the discussions go where they will, which is easy to do with s
 If there is a point that I feel needs to be brought up, I'll bring it up.
 I want to *add* to the discussion and not talk just for the sake of talking.
 
+### Missed opportunities
+
+#### Photo sharing
+
+In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I had an idea that it would be great if concertgoers could upload photos taken at the festival to share them. So I wrote the software and after the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
+
+A smarter person would have recognized that as a clue and gone off and started a photo sharing site. Flickr was still four years away at that point.
+
+#### Local reviews
+
+In early 2001, a co-worker/friend and I were approached by our manager to ask about adding user reviews to Citysearch.com. The senior developer/prima donna didn't want to add them because he was certain that they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
+
+A smarter person would have recognized that as a clue and gone off and started a local user reviews site. Yelp was still three years away at that point.
+
 ## Non-work
 
 I have four brothers and one sister.
