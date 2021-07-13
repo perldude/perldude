@@ -4,7 +4,8 @@
 
 ### History
 
-When I started college, both the IBM PC and the Macintosh did not exist but they did when I finished.
+Both the IBM PC and the Macintosh did not exist when I started college.
+They did when I finished.
 UCSB was using
 [BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 (Berkeley also being a UC school) so I have been using the vi(m) editor
@@ -32,9 +33,8 @@ After Disney I rode the original dotcom bubble,
 working for a number of fun and stupid companies.
 After the bubble burst, it was a succession of meh jobs:
 payroll for movies and TV shows,
-NBC and ABC,
-the company that was hosting my website,
 Ticketmaster, Yahoo!,
+NBC and ABC,
 I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
 a printing company,
 and on and on...
@@ -56,7 +56,7 @@ Love containers and the whole cloud architecture thing.
 
 Been using agile, mainly scrum, for over ten years.
 I was even a scrum master for my dev team at a recent job.
-I've used it enough that I know it's not a silver bullet.
+I've used it enough to know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
 
 ### 18F
@@ -65,7 +65,7 @@ I also know that it does give teams tools that they can use to build a process t
 
 Here are some lessons I have learned while at 18F:
 
-* If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A to find out exactly what they said and want.
+* If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A and find out exactly what they want.
 * People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
 
 ### Career goals
@@ -74,11 +74,12 @@ My most recent career goal was to manage people.
 Managing a team of developers, not managing managers.
 I think I am better suited for that.
 However, in 18F there are so many interesting opportunities popping up
-that I am focused on being useful wherever I am needed.
+that I am focused on being useful wherever needed.
+I do like the consulting engineer thing, though.
 
 ### Please keep in mind...
 
-I ask that you give me the benefit of the doubt.
+I ask that you please give me the benefit of the doubt.
 I always try to do the right thing so if it seems like I am doing the wrong thing,
 know that my intentions are good and honorable.
 I respond well to constructive criticism.
@@ -93,28 +94,28 @@ Also, I like chocolate.
 
 I tend to keep quiet in meetings.
 It's not because I'm sleeping.
-I am happy to let the discussions go where they will, which is easy to do with smart people in the meeting.
+I am happy to let the discussions go where they will, which is easy to do with great people in the meeting.
 If there is a point that I feel needs to be brought up, I'll bring it up.
-I want to *add* to the discussion and not talk just for the sake of talking.
+I want to *add* to the discussion and not talk for the sake of talking.
 
 ### Missed opportunities
 
 #### Photo sharing
 
-In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I had an idea that it would be great if concertgoers could upload photos taken at the festival to share them. So I wrote the software and after the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
+In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I had an idea that it would be great if concertgoers could upload photos taken at the festival to share. So I wrote the software and after the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
 
 A smarter person would have recognized that as a clue and gone off and started a photo sharing site. Flickr was still four years away at that point.
 
 #### Local reviews
 
-In early 2001, a co-worker/friend and I were approached by our manager to ask about adding user reviews to Citysearch.com. The senior developer/prima donna didn't want to add them because he was certain that they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
+In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com. The team's senior developer/prima donna didn't want to add them because he was certain that they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
 
-A smarter person would have recognized that as a clue and gone off and started a local user reviews site. Yelp was still three years away at that point.
+A smarter person would have recognized that as a clue and gone off with his friend and started a local user reviews site. Yelp was still three years away at that point.
 
 ## Non-work
 
 I have four brothers and one sister.
-We grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother still lives.
+We grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
 
 I have two children, boy/girl twins, who are 22 years old.
 My daughter is going to graduate school in the fall on her way to a career in psychology.
@@ -134,7 +135,7 @@ I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a racer but I do like taking long rides.
 I hope to take up long-distance touring someday with a dream of
-riding across the US.
+riding solo across the US.
 This year (2021) I finally had room to get my pretty decent weight equipment back
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
