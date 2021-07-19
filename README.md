@@ -23,7 +23,7 @@ helping to make their
 [first digitally-produced](https://www.imdb.com/title/tt0100477/)
 (not CGI) movies.
 It really was the best job until it wasn’t.
-While almost every bit of software I’ve written is (poof!) gone,
+While almost every bit of software I’ve written in my career is (poof!) gone,
 a hundred years after I’m dead there will be photons from my name
 in the credits of [Beauty and the Beast](https://www.imdb.com/title/tt0101414/?ref_=nv_sr_srsg_3)
 flying around someone’s living room.
@@ -55,7 +55,7 @@ a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
 
 Been using agile, mainly scrum, for over ten years.
-I was even a scrum master for my dev team at a recent job.
+I was even a Certified Scrum Master🧐 for my dev team at a recent job.
 I've used it enough to know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
 
@@ -102,15 +102,15 @@ I want to *add* to the discussion and not talk for the sake of talking.
 
 #### Photo sharing
 
-In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I had an idea that it would be great if concertgoers could upload photos taken at the festival to share. So I wrote the software and after the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
+In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I thought it would be great if concertgoers could upload photos taken at the festival to share so I wrote the software. After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
 
-A smarter person would have recognized that as a clue and gone off and started a photo sharing site. Flickr was still four years away at that point.
+A smarter person would have recognized that as a clue and gone off to started a photo sharing site. Flickr was still four years away at that point.
 
 #### Local reviews
 
-In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com. The team's senior developer/prima donna didn't want to add them because he was certain that they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
+In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com. The team's senior developer/prima donna didn't want to add them because he was certain  they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
 
-A smarter person would have recognized that as a clue and gone off with his friend and started a local user reviews site. Yelp was still three years away at that point.
+A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site. Yelp was still three years away at that point.
 
 ## Non-work
 
