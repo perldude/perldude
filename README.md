@@ -67,6 +67,7 @@ Here are some lessons I have learned while at 18F:
 
 * If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A and find out exactly what they want.
 * People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
+* I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear some things and then I start thinking about them instead of writing the note. It's bad.
 
 ### Career goals
 
@@ -104,13 +105,13 @@ I want to *add* to the discussion and not talk for the sake of talking.
 
 In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I thought it would be great if concertgoers could upload photos taken at the festival to share so I wrote the software. After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
 
-A smarter person would have recognized that as a clue and gone off to started a photo sharing site. Flickr was still four years away at that point.
+A smarter person would have recognized that as a clue and gone off to start a photo sharing site. Flickr was still four years away at that point.
 
 #### Local reviews
 
 In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com. The team's senior developer/prima donna didn't want to add them because he was certain  they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
 
-A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site. Yelp was still three years away at that point.
+A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site (*especially* after we were laid off). Yelp was still three years away at that point.
 
 ## Non-work
 
@@ -174,6 +175,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * Unix/Linux
 * Perl and Go
 * MP3 320 VBR
+* Wikis over both Google Docs and editing by pull requests
 
 ### Music
 
