@@ -150,6 +150,7 @@ There is an actual iPod on my desk connected to speakers.
 I enjoy different types of music but, deep down, I am quite the metal-head.🤘
 I am overrun with music CDs and look forward to [Bandcamp Fridays](https://isitbandcampfriday.com) each month.
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
+And vinyl just sucks.
 
 I enjoy working in the yard and garden.
 We're on an acre so there is plenty for me to do.
