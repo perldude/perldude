@@ -4,15 +4,8 @@
 
 ### History
 
-Both the IBM PC and the Macintosh did not exist when I started college.
-They did when I finished.
-UCSB was using
-[BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
-(Berkeley also being a UC school) so I have been using the vi(m) editor
-for a very long time.
-
 I have been working as a software developer for over 35 years.
-My first job after school was as the first hire of a two-person startup.
+My first job after school was as hire #1 of a two-person startup.
 We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
 was in high school at this time).
@@ -53,6 +46,8 @@ As a developer, I like that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to use one and having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
+In between projects, I am going to try working on [an AWS project](https://github.com/perldude/squarsh) in [a sandbox](https://handbook.tts.gsa.gov/launching-software/infrastructure/#cloud-service-provider-csp-sandbox-accounts).
+We'll see how that goes.
 
 Been using agile, mainly scrum, for over ten years.
 I was even a Certified Scrum Master🧐 for my dev team at a recent job.
@@ -67,7 +62,7 @@ Here are some lessons I have learned while at 18F:
 
 * If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A and find out exactly what they want.
 * People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
-* I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear some things and then I start thinking about them instead of writing the note. It's bad.
+* I am a terrible note taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
 
 ### Career goals
 
@@ -124,6 +119,12 @@ She is a *much* better student than her father was.
 My son would be happy to talk your ears off about books, movies, and TV shows.
 
 I went to college at [UC Santa Barbara](https://www.ucsb.edu).
+Both the IBM PC and the Macintosh did not exist when I started college.
+They did when I finished.
+UCSB was using
+[BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+(Berkeley also being a UC school) so I have been using the vi(m) editor
+for a very long time.
 After school I moved to Southern California, following my girlfriend
 who was going to graduate school at UCLA (and would become wife #1).
 I lived down there until 2019, when my wife (#2) and I moved back to Madera
@@ -176,7 +177,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * Unix/Linux
 * Perl and Go
 * MP3 320 VBR
-* Wikis over both Google Docs and editing by pull requests
+* Real wikis like [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) (not fake ones like GitHub wikis)
 
 ### Music
 
