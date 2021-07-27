@@ -110,16 +110,14 @@ A smarter person would have recognized that as a clue and gone off with his frie
 
 ## Non-work
 
-I have four brothers and one sister.
-We grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
+My four brothers, one sister, and I grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
 
 I have two children, boy/girl twins, who are 22 years old.
 My daughter is going to graduate school in the fall on her way to a career in psychology.
 She is a *much* better student than her father was.
 My son would be happy to talk your ears off about books, movies, and TV shows.
 
-I went to college at [UC Santa Barbara](https://www.ucsb.edu).
-Both the IBM PC and the Macintosh did not exist when I started college.
+Both the IBM PC and the Macintosh did not exist when I started at [UC Santa Barbara](https://www.ucsb.edu).
 They did when I finished.
 UCSB was using
 [BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
@@ -142,21 +140,20 @@ This year (2021) I finally had room to get my pretty decent weight equipment bac
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
 
-I met wife #2 for the first time at our 30-year high school reunion.
+Wife #2 and I met for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
 We were quite a topic of conversation at our next reunion.
 
-I enjoy listening to music and watching movies.
+Listening to music and watching movies are two of my favorite activities.
 There is an actual iPod on my desk connected to speakers.
 I enjoy different types of music but, deep down, I am quite the metal-head.🤘
 I am overrun with music CDs and look forward to [Bandcamp Fridays](https://isitbandcampfriday.com) each month.
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 And vinyl just sucks.
 
-I enjoy working in the yard and garden.
-We're on an acre so there is plenty for me to do.
+Good thing I enjoy working in the yard and garden because
+we live on an acre so there is plenty for me to do.
 
-I even cook.
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
 
