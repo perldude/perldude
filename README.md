@@ -98,7 +98,7 @@ I want to *add* to the discussion and not talk for the sake of talking.
 
 #### Photo sharing
 
-In the summer of 1999, I worked on Woodstock.com during Woodstock 99. I thought it would be great if concertgoers could upload photos taken at the festival to share so I wrote the software. After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
+I worked on Woodstock.com during Woodstock 99. I thought it would be great if concertgoers could share their photos taken at the festival by uploading them to the site so I wrote the software. After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
 
 A smarter person would have recognized that as a clue and gone off to start a photo sharing site. Flickr was still four years away at that point.
 
