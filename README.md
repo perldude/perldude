@@ -76,7 +76,7 @@ I do like the consulting engineer thing, though.
 ### Please keep in mind...
 
 I ask that you please give me the benefit of the doubt.
-I always try to do the right thing so if it seems like I am doing the wrong thing,
+I always try to do the right thing so if it seems like I am doing (or saying) the wrong thing,
 know that my intentions are good and honorable.
 I respond well to constructive criticism.
 
@@ -132,7 +132,7 @@ expected to take a year (which it did).
 I'm all better now. A little different but all better.
 
 I started doing triathlons in 2009 and, while I have stopped running and
-swimming, I am an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
+swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a racer but I do like taking long rides.
 I hope to take up long-distance touring someday with a dream of
 riding solo across the US.
@@ -238,17 +238,17 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 
 #### Things I have rated "10" at IMDB
 
-* The Shawshank Redemption
-* The Godfather
-* Schindler's List
-* Pulp Fiction
-* The Good, The Bad and The Ugly
-* Forrest Gump
-* Fawlty Towers
-* The Silence of the Lambs
-* Se7en
-* Edge of Darkness (1985)
-* Casablanca
+* [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/?ref_=ext_shr_lnk)
+* [The Godfather](https://www.imdb.com/title/tt0068646/?ref_=ext_shr_lnk)
+* [Schindler's List](https://www.imdb.com/title/tt0108052/?ref_=ext_shr_lnk)
+* [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=ext_shr_lnk)
+* [The Good, The Bad and The Ugly](https://www.imdb.com/title/tt0060196/?ref_=ext_shr_lnk)
+* [Forrest Gump](https://www.imdb.com/title/tt0109830/?ref_=ext_shr_lnk)
+* [Fawlty Towers](https://www.imdb.com/title/tt0072500/?ref_=ext_shr_lnk)
+* [The Silence of the Lambs](https://www.imdb.com/title/tt0102926/?ref_=ext_shr_lnk)
+* [Se7en](https://www.imdb.com/title/tt0114369/?ref_=ext_shr_lnk)
+* [Edge of Darkness (1985)](https://www.imdb.com/title/tt0090424/?ref_=ext_shr_lnk)
+* [Casablanca](https://www.imdb.com/title/tt0034583/?ref_=ext_shr_lnk)
 * Terminator 2: Judgement Day
 * Alien
 * Avengers: Endgame
