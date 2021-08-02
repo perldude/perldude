@@ -76,7 +76,7 @@ I do like the consulting engineer thing, though.
 ### Please keep in mind...
 
 I ask that you please give me the benefit of the doubt.
-I always try to do the right thing so if it seems like I am doing (or saying) the wrong thing,
+I always try to do the right thing so if you feel like I am doing (or saying) the wrong thing,
 know that my intentions are good and honorable.
 I respond well to constructive criticism.
 
@@ -249,21 +249,21 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [Se7en](https://www.imdb.com/title/tt0114369/?ref_=ext_shr_lnk)
 * [Edge of Darkness (1985)](https://www.imdb.com/title/tt0090424/?ref_=ext_shr_lnk)
 * [Casablanca](https://www.imdb.com/title/tt0034583/?ref_=ext_shr_lnk)
-* Terminator 2: Judgement Day
-* Alien
-* Avengers: Endgame
-* Aliens
-* Braveheart
-* Inglourious Basterds
-* Downfall
-* Casino
-* Sledge Hammer!
-* Monty Python and the Holy Grail
-* Kill Bill: Vol 1
-* The Princess Bride
-* Monty Python's Life of Brian
-* The Martian
-* La La Land
+* [Terminator 2: Judgement Day[(https://www.imdb.com/title/tt0103064/?ref_=ext_shr_lnk)
+* [Alien](https://www.imdb.com/title/tt0078748/?ref_=ext_shr_lnk)
+* [Avengers: Endgame](https://www.imdb.com/title/tt4154796/?ref_=ext_shr_lnk)
+* [Aliens](https://www.imdb.com/title/tt0090605/?ref_=ext_shr_lnk)
+* ]Braveheart](https://www.imdb.com/title/tt0112573/?ref_=ext_shr_lnk)
+* [Inglourious Basterds](https://www.imdb.com/title/tt0361748/?ref_=ext_shr_lnk)
+* [Downfall](https://www.imdb.com/title/tt0363163/?ref_=ext_shr_lnk)
+* [Casino](https://www.imdb.com/title/tt0112641/?ref_=ext_shr_lnk)
+* [Sledge Hammer!](https://www.imdb.com/title/tt0090525/?ref_=ext_shr_lnk)
+* [Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853/?ref_=ext_shr_lnk)
+* [Kill Bill: Vol 1](https://www.imdb.com/title/tt0266697/?ref_=ext_shr_lnk)
+* [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=ext_shr_lnk)
+* [Monty Python's Life of Brian](https://www.imdb.com/title/tt0079470/?ref_=ext_shr_lnk)
+* [The Martian](https://www.imdb.com/title/tt3659388/?ref_=ext_shr_lnk)
+* [La La Land](https://www.imdb.com/title/tt3783958/?ref_=ext_shr_lnk)
 * Young Frankenstein
 * The Wizard of Oz
 * Bohemian Rhapsody
