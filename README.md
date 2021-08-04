@@ -10,10 +10,14 @@ We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
 was in high school at this time).
 Not a lot of work for us but we got by.
+We did create a system for a nationwide network of boat brokers where they could input different search criteria (length, price, etc.) and get
+information on boats that matched.
+Great web app, right?
+Yeah, except this was 1987. It was great but, unfortunately, it was also over ten years ahead of its time.
 
 A few years later I found myself working at Walt Disney Feature Animation,
 helping to make their
-[first digitally-produced](https://www.imdb.com/title/tt0100477/)
+[first digitally-produced](https://www.guinnessworldrecords.com/world-records/first-fully-digital-feature-film)
 (not CGI) movies.
 It really was the best job until it wasn’t.
 While almost every bit of software I’ve written in my career is (poof!) gone,
