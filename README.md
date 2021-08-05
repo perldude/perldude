@@ -217,24 +217,24 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 1. Papa's Got a Brand New Bag - James Brown
 1. A Hard Day's Night - The Beatles
 1. Satisfaction - The Rolling Stones
-1. Born to Be Wild - Steppenwolf
-1. In-A-Gadda-Da-Vida - Iron Butterly
-1. We're An American Band - Grand Funk
-1. Long Tall Sally - Little Richard
-1. School's Out - Alice Cooper
-1. Welcome to the Jungle - Guns n' Roses
-1. Paranoid - Black Sabbath
-1. Holiday in Cambodia - Dead Kennedys
-1. War - Edwin Starr
-1. Inner City Blues - Marvin Gaye
-1. Oh Girl - The Chi-Lites
-1. Show and Tell - Al Wilson
-1. The House of the Rising Sun - The Animals
-1. These Boots Are Made For Walkin' - Nancy Sinatra
-1. Baker Street - Gerry Rafferty
-1. California Dreamin' - The Mamas and The Papas
-1. Nights in White Satin - The Moody Blues
-1. Bohemian Rhapsody - Queen
+2. You Really Got Me - The Kinks
+3. Born to Be Wild - Steppenwolf
+4. In-A-Gadda-Da-Vida - Iron Butterly
+5. We're An American Band - Grand Funk
+6. Long Tall Sally - Little Richard
+7. School's Out - Alice Cooper
+8. Welcome to the Jungle - Guns n' Roses
+9. Paranoid - Black Sabbath
+10. Holiday in Cambodia - Dead Kennedys
+11. War - Edwin Starr
+12. Inner City Blues - Marvin Gaye
+13. Oh Girl - The Chi-Lites
+14. Show and Tell - Al Wilson
+15. The House of the Rising Sun - The Animals
+17. Baker Street - Gerry Rafferty
+18. California Dreamin' - The Mamas and The Papas
+19. Nights in White Satin - The Moody Blues
+20. Bohemian Rhapsody - Queen
 
 \* - Don't ask me to make it smaller. That is impossible.
 
