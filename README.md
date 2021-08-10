@@ -15,7 +15,7 @@ information on boats that matched.
 Great web app, right?
 Yeah, except this was 1987. It was great but, unfortunately, it was also over ten years ahead of its time.
 
-A few years later I found myself working at Walt Disney Feature Animation,
+A few years later I found myself working at [Walt Disney Feature Animation](https://www.disneyanimation.com) (as it was called at the time),
 helping to make their
 [first digitally-produced](https://www.guinnessworldrecords.com/world-records/first-fully-digital-feature-film)
 (not CGI) movies.
@@ -27,7 +27,7 @@ flying around someone’s living room.
 That’s pretty cool.
 
 After Disney I rode the original dotcom bubble,
-working for a number of fun and stupid companies.
+working for a number of fun and [stupid](https://www.wired.com/1999/02/a-free-pc-gimme/) companies.
 After the bubble burst, it was a succession of meh jobs:
 payroll for movies and TV shows,
 Ticketmaster, Yahoo!,
@@ -66,7 +66,8 @@ Here are some lessons I have learned while at 18F:
 
 * If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A and find out exactly what they want.
 * People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
-* I am a terrible note taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
+* I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
+* Maybe I'm not such a terrible note-taker. I tried note-taking where it was a higher-level meeting rather than something more technical (where I would definitely be thinking about what I was hearing) and I was taking notes just fine. Who knows, maybe doing more of this type of note-taking will eventually let me grow into a decent overall note-taker. Someday. Not today.
 
 ### Career goals
 
