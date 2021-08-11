@@ -209,7 +209,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [In the Court of the Crimson King](https://www.youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U) - King Crimson
 * [A Night at the Opera](https://www.youtube.com/playlist?list=OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8) - Queen
 
-#### The 25 Best Singles of the Rock Era* (in playlist order)
+#### [The 25 Best Singles of the Rock Era](https://youtube.com/playlist?list=PLRvXULDcxlmqV_oxSet3u0G_lF3Uxqcaj)* (in playlist order)
 
 1. Rock Around the Clock - Bill Haley and His Comets
 1. Jailhouse Rock - Elvis Presley
