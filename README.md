@@ -60,6 +60,8 @@ I also know that it does give teams tools that they can use to build a process t
 
 ### 18F
 
+<img src="https://github.com/perldude/perldude/blob/master/my-octocat-1628017257975.png" width="35%">
+
 #### Lessons Learned
 
 Here are some lessons I have learned while at 18F:
