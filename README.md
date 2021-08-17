@@ -60,7 +60,7 @@ I also know that it does give teams tools that they can use to build a process t
 
 ### 18F
 
-<img src="https://github.com/perldude/perldude/blob/master/my-octocat-1628017257975.png" width="35%">
+<img src="https://github.com/perldude/perldude/blob/master/my-octocat-1628017257975.png" alt="Octocat" width="35%" align="left">
 
 #### Lessons Learned
 
@@ -76,9 +76,8 @@ Here are some lessons I have learned while at 18F:
 My most recent career goal was to manage people.
 Managing a team of developers, not managing managers.
 I think I am better suited for that.
-However, in 18F there are so many interesting opportunities popping up
-that I am focused on being useful wherever needed.
-I do like the consulting engineer thing, though.
+I like the consulting engineer (no coding) thing here at 18F.
+Though the more I think about it, I would like to steer towards becoming a supervisor.
 
 ### Please keep in mind...
 
