@@ -50,7 +50,8 @@ As a developer, I like that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to use one and having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
-In between projects, I am going to try working on [an AWS project](https://github.com/perldude/squarsh) in [a sandbox](https://handbook.tts.gsa.gov/launching-software/infrastructure/#cloud-service-provider-csp-sandbox-accounts).
+In between projects, I am going to try working on [an AWS project](https://github.com/perldude/squarsh)
+in [a sandbox](https://handbook.tts.gsa.gov/launching-software/infrastructure/#cloud-service-provider-csp-sandbox-accounts).
 We'll see how that goes.
 
 Been using agile, mainly scrum, for over ten years.
@@ -79,6 +80,17 @@ I think I am better suited for that.
 I like the consulting engineer (no coding) thing here at 18F.
 Though the more I think about it, I would like to steer towards becoming a supervisor.
 
+#### Soapbox
+
+Not a fan of having managers do non-manager things (like coding).
+If you want tech advice from your manager, you better be working at an early-stage startup.
+Managers are overhead. Necessary, valuable overhead (the good ones, anyway) but still overhead.
+How do you keep that overhead down?
+By giving managers as many reports as possible to keep busy *managing them* rather than doing things like coding or architecting.
+Between the usual HR stuff, managing career paths, and manager-level work, an organization shouldn't need their managers to do work.
+Unless the organization likes overhead.
+Which isn't a good sign.
+
 ### Please keep in mind...
 
 I ask that you please give me the benefit of the doubt.
@@ -104,22 +116,32 @@ I want to *add* to the discussion and not talk for the sake of talking.
 
 #### Photo sharing
 
-I worked on Woodstock.com during Woodstock 99. I thought it would be great if concertgoers could share their photos taken at the festival by uploading them to the site so I wrote the software. After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
+I worked on Woodstock.com during Woodstock 99.
+I thought it would be great if concertgoers could share their photos taken at the festival by uploading them to the site.
+I wrote the software to do that.
+After the festival ended, the "Community Gallery" accounted for more than 50% of the site's traffic.
 
 A smarter person would have recognized that as a clue and gone off to start a photo sharing site. Flickr was still four years away at that point.
 
 #### Local reviews
 
-In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com. The team's senior developer/prima donna didn't want to add them because he was certain  they would degrade site responsiveness. We didn't share that opinion so we went ahead and implemented them (user reviews, lead by Amazon, were a fairly new thing at that point). User reviews proved to be *very* popular (and didn't slow down the site at all). They even got mentioned by the CEO in the next quarterly earnings call.
+In early 2001, a co-worker/friend and I were asked by our manager about adding user reviews to Citysearch.com
+(user reviews, lead by Amazon, were a fairly new thing at that point).
+The team's senior developer/prima donna didn't want to add them because he was certain they would degrade site responsiveness.
+We didn't share that opinion so we went ahead and implemented them.
+User reviews proved to be *very* popular (and didn't slow down the site at all).
+They even got mentioned by the CEO in the next quarterly earnings call.
 
-A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site (*especially* after we were laid off). Yelp was still three years away at that point.
+A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site (*especially* after we were laid off).
+Yelp was still three years away at that point.
 
 ## Non-work
 
-My four brothers, one sister, and I grew up in towns around Fresno, California, finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
+My four brothers, one sister, and I grew up in towns around Fresno, California,
+finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
 
-I have two children, boy/girl twins, who are 22 years old.
-My daughter is going to graduate school in the fall on her way to a career in psychology.
+I have two children, boy/girl twins, who are in their twenties.
+My daughter is going to graduate school on her way to a career in psychology.
 She is a *much* better student than her father was.
 My son would be happy to talk your ears off about books, movies, and TV shows.
 
