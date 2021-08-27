@@ -204,7 +204,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * MP3 320 VBR
 * Real wikis like [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) (not fake ones like GitHub wikis)
 
-### Music
+### [Music](https://freshtuneage.blogspot.com)
 
 #### My Ten Desert Island Songs (in playlist order)
 
@@ -229,7 +229,9 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [Goodbye Yellow Brick Road](https://www.youtube.com/playlist?list=OLAK5uy_mfrVeP01Fp1Cpa__JtGwqoxYeBfqz_c6E) - Elton John
 * [Scarlet and Other Stories](https://www.youtube.com/playlist?list=OLAK5uy_lSBR5RvCmIbYbYNzVzQpf8Ko3h9Q0tDXQ) - All About Eve
 * [Frampton Comes Alive!](https://www.youtube.com/playlist?list=OLAK5uy_lkrhRgiTczPNnbopoxjsA4eBiiyW1FGAk) - Peter Frampton
+  - There is no better live album.
 * [In the Court of the Crimson King](https://www.youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U) - King Crimson
+  - *"This is, as a matter of fact, not opinion, the single greatest musical achievement ever produced for the priviledged men and women of this planet whom can hear audible noise. BUY IT, IT WILL CHANGE YOUR PITIFUL LIFE AS YOU DARE NOT IMAGINE."* -reviewer on Amazon.com in 1998
 * [A Night at the Opera](https://www.youtube.com/playlist?list=OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8) - Queen
 
 #### [The 25 Best Singles of the Rock Era](https://youtube.com/playlist?list=PLRvXULDcxlmqV_oxSet3u0G_lF3Uxqcaj)* (in playlist order)
@@ -243,7 +245,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 1. Satisfaction - The Rolling Stones
 2. You Really Got Me - The Kinks
 3. Born to Be Wild - Steppenwolf
-4. In-A-Gadda-Da-Vida - Iron Butterly
+4. In-A-Gadda-Da-Vida (single version) - Iron Butterly
 5. We're An American Band - Grand Funk
 6. Long Tall Sally - Little Richard
 7. School's Out - Alice Cooper
