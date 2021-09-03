@@ -72,6 +72,12 @@ Here are some lessons I have learned while at 18F:
 * I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
 * Maybe I'm not such a terrible note-taker. I tried note-taking where it was a higher-level meeting rather than something more technical (where I would definitely be thinking about what I was hearing) and I was taking notes just fine. Who knows, maybe doing more of this type of note-taking will eventually let me grow into a decent overall note-taker. Someday. Not today.
 
+#### Original New Employee Blurb
+
+From May 2021:
+
+> Michael was born in Tampa, Florida but his parents moved shortly thereafter so, to his eternal shame, he is the only one amongst his siblings not a native Californian. He grew up in towns in the San Joaquin Valley, finally settling in the agricultural community of Madera. He went to college at UC Santa Barbara then spent the next 30+ years in Southern California (L.A. to most of you). Highlights from his time there include marriage, twins, divorce, working on Disney animated movies for nine years, triathlons then cycling, and working for way too many companies. In 2018 he was diagnosed with colon cancer, which meant he and his second wife (who he met for the first time at their 30-year high school reunion) ended up back in the town they grew up in: Madera. All better now, he enjoys cycling, gardening, movies and music, and even cooking.
+
 ### Career goals
 
 My most recent career goal was to manage people.
