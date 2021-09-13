@@ -13,7 +13,7 @@ Not a lot of work for us but we got by.
 We did create a system for a nationwide network of boat brokers where they could input different search criteria (length, price, etc.) and get
 information on boats that matched.
 Great web app, right?
-Yeah, except this was 1987. It was great but, unfortunately, it was also over ten years ahead of its time.
+Yeah, except this was 1987. It was great but, unfortunately, it was also ten years ahead of its time.
 
 A few years later I found myself working at [Walt Disney Feature Animation](https://www.disneyanimation.com) (as it was called at the time),
 helping to make their
@@ -45,7 +45,7 @@ I do mainly backend and tools work.
 You want me far away from front-end development.
 I have even been a QA engineer and a manager.
 
-I like cloud computing but haven't had much professional experience.
+I like cloud computing but haven't had much professional experience with it.
 As a developer, I like that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to use one and having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
