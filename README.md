@@ -201,7 +201,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
 * There are >40,000 songs in my iTunes and most of them were actually bought.
-* I've even attended the Academy Awards
+* I've even attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 
 ### Technical preferences
 
