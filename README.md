@@ -86,6 +86,9 @@ I think I am better suited for that.
 I like the consulting engineer (no coding) thing here at 18F.
 Though the more I think about it, I would like to steer towards becoming a supervisor.
 
+Then retirement.
+I am at an age where retirement is actually within reach.
+
 #### Soapbox
 
 Not a fan of having managers do non-manager things (like coding).
