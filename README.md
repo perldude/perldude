@@ -5,7 +5,7 @@
 ### History
 
 I have been working as a software developer for over 35 years.
-My first job after school was as hire #1 of a two-person startup.
+My first job after college was as hire #1 of a two-person startup.
 We wrote custom software for businesses running Unix
 ([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
 was in high school at this time).
@@ -35,6 +35,7 @@ NBC and ABC,
 I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
 a printing company,
 and on and on...
+I have even been a QA engineer and a manager.
 
 All that time it was Unix and Linux.
 Writing C programs up until the dotcom era, then it was Perl.
@@ -43,7 +44,6 @@ I've gotten into Go in the last couple of years.
 Been working with relational databases from the start.
 I do mainly backend and tools work.
 You want me far away from front-end development.
-I have even been a QA engineer and a manager.
 
 I like cloud computing but haven't had much professional experience with it.
 As a developer, I like that I can just use a message queue or a NoSQL database,
@@ -190,6 +190,7 @@ And vinyl just sucks.
 
 Good thing I enjoy working in the yard and garden because
 we live on an acre so there is plenty for me to do.
+Did I mention our five dogs (including two puppies)?
 
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
