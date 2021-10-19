@@ -70,7 +70,8 @@ Here are some lessons I have learned while at 18F:
 * If someone tells you that person/agency A wants them to do something, go to the source. Get as close as you can to A and find out exactly what they want.
 * People at 18F are fantastic. That means you will have fantastic people on your projects. People you can rely on. IOW, I learned how to be on a real team again.
 * I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
-* Maybe I'm not such a terrible note-taker. I tried note-taking where it was a higher-level meeting rather than something more technical (where I would definitely be thinking about what I was hearing) and I was taking notes just fine. Who knows, maybe doing more of this type of note-taking will eventually let me grow into a decent overall note-taker. Someday. Not today.
+* Maybe I'm not such a terrible note-taker. I tried note-taking where it was a higher-level meeting rather than something more technical (where I would definitely be thinking about what I was hearing) and I was taking notes just fine. Who knows, maybe doing more of this type of note-taking will eventually let me grow into a decent overall note-taker.
+* I'm no longer "the tech guy". Let me explain. It used to be that if you were the programmer on a team with non-programmers, you were the tech person. Nowadays, dinosaurs no longer rule the earth and people who aren't developers can also be tech people. Designers, researchers, artists, even [Senators](https://en.wikipedia.org/wiki/Jacky_Rosen).
 
 #### Original New Employee Blurb
 
@@ -96,7 +97,7 @@ If you want tech advice from your manager, you better be working at an early-sta
 Managers are overhead. Necessary, valuable overhead (the good ones, anyway) but still overhead.
 How do you keep that overhead down?
 By giving managers as many reports as possible to keep busy *managing them* rather than doing things like coding or architecting.
-Between the usual HR stuff, managing career paths, and manager-level work, an organization shouldn't need their managers to do work.
+Between the usual HR stuff, managing career paths, and manager-level work, an organization shouldn't need their managers to do work alongside their teams.
 Unless the organization likes overhead.
 Which isn't a good sign.
 
