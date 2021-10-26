@@ -110,14 +110,14 @@ I respond well to constructive criticism.
 
 If I tell you that I don't understand what you're saying, it's because I actually don't understand what you're saying.
 I'm not faking or trying to be a jerk.
-I really don't understand so, please, patiently help me understand.
+I really don't understand so please, patiently, help me understand.
 
 Also, I like chocolate.
 
 ### My meeting style
 
 I tend to keep quiet in meetings.
-It's not because I'm sleeping.
+It's not because I'm sleeping (usually).
 I am happy to let the discussions go where they will, which is easy to do with great people in the meeting.
 If there is a point that I feel needs to be brought up, I'll bring it up.
 I want to *add* to the discussion and not talk for the sake of talking.
@@ -202,7 +202,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
-* There are >40,000 songs in my iTunes and most of them were actually bought.
+* There are >42,000 songs in my iTunes and most of them were actually bought.
 * I've even attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 
 ### Technical preferences
