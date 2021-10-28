@@ -145,6 +145,20 @@ They even got mentioned by the CEO in the next quarterly earnings call.
 A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site (*especially* after we were laid off).
 Yelp was still three years away at that point.
 
+#### Faxing
+
+Not exactly a missed opportunity but it's worth noting.
+As previously mentioned, I worked at a very small startup as my first job after college.
+The company was named V-Systems but changed their name after I left to VSI.
+I happened to visit the company a year or so after leaving and got to chatting with my old boss.
+I mentioned this idea I had for using Unix with fax modems for office faxing.
+I told him that he can have the idea because I knew I wasn't going to be able to do anything with it
+(Unix computers and fax modems were expensive back then).
+The company actually did build on that idea, eventually selling it to [Esker](https://www.esker.com) and, today,
+[VSI-FAX](https://www.esker.com/business-process-solutions/automation-products/fax-server-solutions/) is still being sold.
+No regrets. I freely gave the idea away, a product is more than an idea, and nobody became a millionaire with it.
+Still, it would have been nice to have been given a chocolate chip cookie for it.
+
 ## Non-work
 
 My four brothers, one sister, and I grew up in towns around Fresno, California,
