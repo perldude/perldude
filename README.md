@@ -227,7 +227,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * Unix/Linux
 * Perl and Go
 * MP3 320 VBR
-* Real wikis like [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) (not fake ones like GitHub wikis)
+* Wikis for institutional knowledge (real wikis like [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), not fake ones like GitHub wikis...and don't even get me started on Google Docs)
 
 ### [Music](https://freshtuneage.blogspot.com)
 
