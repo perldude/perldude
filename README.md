@@ -218,7 +218,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * My hair used to be quite a bit longer than it is now
 * There are >43,000 songs in my iTunes and most of them were actually bought.
 * I've even attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
-* In 1990 I first used the Internet (you capitalized it back then) to find a job.
+* I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
 ### Technical preferences
 
