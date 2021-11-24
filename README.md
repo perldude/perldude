@@ -7,19 +7,19 @@
 I have been working as a software developer for over 35 years.
 My first job after college was as hire #1 of a two-person startup.
 We wrote custom software for businesses running Unix
-([Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
+(not Linux--[Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
 was in high school at this time).
 Not a lot of work for us but we got by.
 We did create a system for a nationwide network of boat brokers where they could input different search criteria (length, price, etc.) and get
 information on boats that matched.
 Great web app, right?
-Yeah, except this was 1987. It was great but, unfortunately, it was also ten years ahead of its time.
+Yeah, except this was 1987. It *was* great. Unfortunately, it was also ten years ahead of its time.
 
 A few years later I found myself working at [Walt Disney Feature Animation](https://www.disneyanimation.com) (as it was called at the time),
 helping to make their
 [first digitally-produced](https://www.guinnessworldrecords.com/world-records/first-fully-digital-feature-film)
 (not CGI) movies.
-It really was the best job until it wasn’t.
+It really was the best job ever until it wasn’t.
 While almost every bit of software I’ve written in my career is (poof!) gone,
 a hundred years after I’m dead there will be photons from my name
 in the credits of [Beauty and the Beast](https://www.imdb.com/title/tt0101414/?ref_=nv_sr_srsg_3)
@@ -47,7 +47,7 @@ You want me far away from front-end development.
 
 I like cloud computing but haven't had much professional experience with it.
 As a developer, I like that I can just use a message queue or a NoSQL database,
-rather than having to convince my employer to use one and having to go through
+rather than having to convince my employer to start using one and then having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
 In between projects, I am going to try working on [an AWS project](https://github.com/perldude/squarsh)
@@ -106,7 +106,7 @@ Which isn't a good sign.
 I ask that you please give me the benefit of the doubt.
 I always try to do the right thing so if you feel like I am doing (or saying) the wrong thing,
 know that my intentions are good and honorable.
-I respond well to constructive criticism.
+While good intentions aren't necessarily good excuses, I do respond well to constructive criticism.
 
 If I tell you that I don't understand what you're saying, it's because I actually don't understand what you're saying.
 I'm not faking or trying to be a jerk.
@@ -217,7 +217,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
 * There are >43,000 songs in my iTunes and most of them were actually bought.
-* I've even attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
+* I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 * I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
 ### Technical preferences
