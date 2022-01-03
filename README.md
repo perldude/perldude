@@ -79,28 +79,6 @@ From May 2021:
 
 > Michael was born in Tampa, Florida but his parents moved shortly thereafter so, to his eternal shame, he is the only one amongst his siblings not a native Californian. He grew up in towns in the San Joaquin Valley, finally settling in the agricultural community of Madera. He went to college at UC Santa Barbara then spent the next 30+ years in Southern California (L.A. to most of you). Highlights from his time there include marriage, twins, divorce, working on Disney animated movies for nine years, triathlons then cycling, and working for way too many companies. In 2018 he was diagnosed with colon cancer, which meant he and his second wife (who he met for the first time at their 30-year high school reunion) ended up back in the town they grew up in: Madera. All better now, he enjoys cycling, gardening, movies and music, and even cooking.
 
-### Career goals
-
-My most recent career goal was to manage people.
-Managing a team of developers, not managing managers.
-I think I am better suited for that.
-I like the consulting engineer (no coding) thing here at 18F.
-Though the more I think about it, I would like to steer towards becoming a supervisor.
-
-Then retirement.
-I am at an age where retirement is actually within reach.
-
-#### Soapbox
-
-Not a fan of having managers do non-manager things (like coding).
-If you want tech advice from your manager, you better be working at an early-stage startup.
-Managers are overhead. Necessary, valuable overhead (the good ones, anyway) but still overhead.
-How do you keep that overhead down?
-By giving managers as many reports as possible to keep busy *managing them* rather than doing things like coding or architecting.
-Between the usual HR stuff, managing career paths, and manager-level work, an organization shouldn't need their managers to do work alongside their teams.
-Unless the organization likes overhead.
-Which isn't a good sign.
-
 ### Please keep in mind...
 
 I ask that you please give me the benefit of the doubt.
