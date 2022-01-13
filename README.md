@@ -90,6 +90,9 @@ If I tell you that I don't understand what you're saying, it's because I actuall
 I'm not faking or trying to be a jerk.
 I really don't understand so please, patiently, help me understand.
 
+I have these two-hour blocks of bike rides scheduled around lunch time-ish during the week.
+These are totally flexible so if you need to schedule a meeting over one, it's not a big deal.
+
 Also, I like chocolate.
 
 ### My meeting style
