@@ -54,7 +54,7 @@ In between projects, I am going to try working on [an AWS project](https://githu
 in [a sandbox](https://handbook.tts.gsa.gov/launching-software/infrastructure/#cloud-service-provider-csp-sandbox-accounts).
 We'll see how that goes.
 
-Been using agile, mainly scrum, for over ten years.
+Been using agile, mainly scrum, for over fifteen years.
 I was even a Certified Scrum Master🧐 for my dev team at a recent job.
 I've used it enough to know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
@@ -148,7 +148,7 @@ finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), 
 I have two children, boy/girl twins, who are in their twenties.
 My daughter is going to graduate school on her way to a career in psychology.
 She is a *much* better student than her father was.
-My son would be happy to talk your ears off about books, movies, and TV shows.
+My son will happily  talk your ears off about books, movies, and TV shows.
 
 Both the IBM PC and the Macintosh did not exist when I started at [UC Santa Barbara](https://www.ucsb.edu).
 They did when I finished.
@@ -197,7 +197,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
-* There are >43,000 songs in my iTunes and most of them were actually bought.
+* There are >44,000 songs (400+GB) in my iTunes and most of them were actually bought.
 * I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 * I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
