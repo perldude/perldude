@@ -40,13 +40,13 @@ I have even been a QA engineer and a manager.
 All that time it was Unix and Linux.
 Writing C programs up until the dotcom era, then it was Perl.
 Every so often I had to write PHP.
-I've gotten into Go in the last couple of years.
-Been working with relational databases from the start.
-I do mainly backend and tools work.
-You want me far away from front-end development.
+I had gotten into Go in the last few years.
+Had been working with relational databases from the start.
+I did mainly backend and tools work.
+You wanted me far away from front-end development.
 
 I like cloud computing but haven't had much professional experience with it.
-As a developer, I like that I can just use a message queue or a NoSQL database,
+The developer in me likes that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to start using one and then having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
@@ -166,7 +166,7 @@ I'm all better now. A little different but all better.
 
 I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
-I'm too big to be a racer but I do like taking long rides.
+I'm too big to be a road racer but I do like taking long rides.
 I hope to take up long-distance touring someday with a dream of
 riding solo across the US.
 This year (2021) I finally had room to get my pretty decent weight equipment back
