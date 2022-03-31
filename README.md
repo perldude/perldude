@@ -72,7 +72,7 @@ Here are some lessons I have learned while at 18F:
 * I am a terrible note-taker. Perhaps it is a skill I will develop someday but it's not today. I hear something and then I start thinking about it instead of writing the note. It's bad.
 * Maybe I'm not such a terrible note-taker. I tried note-taking where it was a higher-level meeting rather than something more technical (where I would definitely be thinking about what I was hearing) and I was taking notes just fine. Who knows, maybe doing more of this type of note-taking will eventually let me grow into a decent overall note-taker.
 * I'm no longer "the tech guy". Let me explain. It used to be that if you were the programmer on a team with non-programmers, you were the tech person. Nowadays, dinosaurs no longer rule the earth and people who aren't developers can also be tech people. Designers, researchers, artists, even [Senators](https://en.wikipedia.org/wiki/Jacky_Rosen).
-* I'm not much of a project leader. That isn't a surprise to me but there were those who thought I could be. I gave it a shot. Nah.
+* I'm not much of a project leader. That isn't a surprise to me but there were those who thought I could be. I gave it a shot. Nah. Will my career here survive? Good question.
 
 #### Original New Employee Blurb
 
