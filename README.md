@@ -40,19 +40,16 @@ I have even been a QA engineer and a manager.
 All that time it was Unix and Linux.
 Writing C programs up until the dotcom era, then it was Perl.
 Every so often I had to write PHP.
-I had gotten into Go in the last few years.
-Had been working with relational databases from the start.
-I did mainly backend and tools work.
-You wanted me far away from front-end development.
+I have gotten into Go in the last few years.
+Have been working with relational databases, off-and-on, from the start.
+I do mainly backend and tools work.
+You want me far away from front-end development.
 
-I like cloud computing but haven't had much professional experience with it.
+I like cloud computing but haven't had that much professional experience with it.
 The developer in me likes that I can just use a message queue or a NoSQL database,
 rather than having to convince my employer to start using one and then having to go through
 a bake-off to see which we want to standardize on, blah, blah, blah.
 Love containers and the whole cloud architecture thing.
-In between projects, I am going to try working on [an AWS project](https://github.com/perldude/squarsh)
-in [a sandbox](https://handbook.tts.gsa.gov/launching-software/infrastructure/#cloud-service-provider-csp-sandbox-accounts).
-We'll see how that goes.
 
 Been using agile, mainly scrum, for over fifteen years.
 I was even a Certified Scrum Master🧐 for my dev team at a recent job.
@@ -176,7 +173,7 @@ And vinyl just sucks.
 
 Good thing I enjoy working in the yard and garden because
 we live on an acre so there is plenty for me to do.
-Did I mention our five dogs (including two puppies)?
+Did I mention our four dogs (including two puppies)?
 
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
