@@ -56,16 +56,6 @@ I was even a Certified Scrum Master🧐 for my dev team at a recent job.
 I've used it enough to know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
 
-### 18F
-
-<img src="https://github.com/perldude/perldude/blob/master/my-octocat-1628017257975.png" alt="Octocat" width="35%" align="left">
-
-#### Original New Employee Blurb
-
-From May 2021:
-
-> Michael was born in Tampa, Florida but his parents moved shortly thereafter so, to his eternal shame, he is the only one amongst his siblings not a native Californian. He grew up in towns in the San Joaquin Valley, finally settling in the agricultural community of Madera. He went to college at UC Santa Barbara then spent the next 30+ years in Southern California (L.A. to most of you). Highlights from his time there include marriage, twins, divorce, working on Disney animated movies for nine years, triathlons then cycling, and working for way too many companies. In 2018 he was diagnosed with colon cancer, which meant he and his second wife (who he met for the first time at their 30-year high school reunion) ended up back in the town they grew up in: Madera. All better now, he enjoys cycling, gardening, movies and music, and even cooking.
-
 ### Please keep in mind...
 
 I ask that you please give me the benefit of the doubt.
