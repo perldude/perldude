@@ -146,7 +146,7 @@ swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsull
 I'm too big to be a road racer but I do like taking long rides.
 I hope to take up long-distance touring someday with a dream of
 riding solo across the US.
-This year (2021) I finally had room to get my pretty decent weight equipment back
+In 2021 I finally had room to get my pretty decent weight equipment back
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
 
@@ -163,7 +163,7 @@ And vinyl just sucks.
 
 Good thing I enjoy working in the yard and garden because
 we live on an acre so there is plenty for me to do.
-Did I mention our four dogs (including two puppies)?
+Our four dogs enjoy all that room, too.
 
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
@@ -174,7 +174,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
 * My hair used to be quite a bit longer than it is now
-* There are >44,000 songs (400+GB) in my iTunes and most of them were actually bought.
+* There are >45,000 songs (400+GB) in my iTunes and most of them were actually bought.
 * I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 * I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
