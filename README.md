@@ -172,7 +172,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 
 * I’m in the [Internet Movie Database](https://www.imdb.com/name/nm0838250)
 * I have pulled someone out of a burning car
-* The farthest I have ridden my bike is [119 miles](https://www.strava.com/activities/1552310223)
+* The farthest I have ridden my bike is [128 miles](https://www.strava.com/activities/7229568776)
 * My hair used to be quite a bit longer than it is now
 * There are >45,000 songs (400+GB) in my iTunes and most of them were actually bought.
 * I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
