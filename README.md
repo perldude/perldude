@@ -144,8 +144,8 @@ I'm all better now. A little different but all better.
 I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a road racer but I do like taking long rides.
-I hope to take up long-distance touring someday with a dream of
-riding solo across the US.
+I am doing [my first fully-loaded bicycle tour in 2023](https://www.crazyguyonabike.com/doc/toc2023)
+with a dream of riding solo across the US.
 In 2021 I finally had room to get my pretty decent weight equipment back
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
