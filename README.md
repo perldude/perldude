@@ -106,7 +106,7 @@ Yelp was still three years away at that point.
 #### Faxing
 
 Not exactly a missed opportunity but it's worth noting.
-As previously mentioned, I worked at a very small startup as my first job after college.
+As previously mentioned, I worked at a very small startup on my first job after college.
 The company was named V-Systems but changed their name after I left to VSI.
 I happened to visit the company a year or so after leaving and got to chatting with my old boss.
 I mentioned this idea I had for using Unix with fax modems for office faxing.
@@ -145,7 +145,7 @@ I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a road racer but I do like taking long rides.
 I am doing [my first fully-loaded bicycle tour in 2023](https://www.crazyguyonabike.com/doc/toc2023)
-with a dream of riding solo across the US.
+with a dream of eventually riding solo across the US.
 In 2021 I finally had room to get my pretty decent weight equipment back
 and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
 It's fun.
