@@ -4,7 +4,7 @@
 
 ### History
 
-I have been working as a software developer for over 35 years.
+I have been working as a software developer since 1985.
 My first job after college was as hire #1 of a two-person startup.
 We wrote custom software for businesses running Unix
 (not Linux--[Linus](https://en.wikipedia.org/wiki/Linus_Torvalds)
@@ -33,25 +33,19 @@ payroll for movies and TV shows,
 Ticketmaster, Yahoo!,
 NBC and ABC,
 I wrote a bulk-faxing system to send out confirmations for airlines and hotels,
-a printing company,
+a printing company, the federal government,
 and on and on...
 I have even been a QA engineer and a manager.
 
 All that time it was Unix and Linux.
 Writing C programs up until the dotcom era, then it was Perl.
 Every so often I had to write PHP.
-I have gotten into Go in the last few years.
+I have gotten into Go in the last several years (though not on the job...yet).
 Have been working with relational databases, off-and-on, from the start.
 I do mainly backend and tools work.
 You want me far away from front-end development.
 
-I like cloud computing but haven't had that much professional experience with it.
-The developer in me likes that I can just use a message queue or a NoSQL database,
-rather than having to convince my employer to start using one and then having to go through
-a bake-off to see which we want to standardize on, blah, blah, blah.
-Love containers and the whole cloud architecture thing.
-
-Been using agile, mainly scrum, for over fifteen years.
+Been using agile, mainly scrum, since the aughts.
 I was even a Certified Scrum Master🧐 for my dev team at a recent job.
 I've used it enough to know it's not a silver bullet.
 I also know that it does give teams tools that they can use to build a process that works just fine for them.
@@ -67,7 +61,7 @@ If I tell you that I don't understand what you're saying, it's because I actuall
 I'm not faking or trying to be a jerk.
 I really don't understand so please, patiently, help me understand.
 
-I have these two-hour blocks of bike rides scheduled around lunch time-ish during the week.
+I have  two-hour blocks of bike rides scheduled around lunch time-ish during the week.
 These are totally flexible so if you need to schedule a meeting over one, it's not a big deal.
 
 Also, I like chocolate.
@@ -115,16 +109,15 @@ I told him that he can have the idea because I knew I wasn't going to be able to
 The company actually did build on that idea, eventually selling it to [Esker](https://www.esker.com) and, today,
 [VSI-FAX](https://www.esker.com/business-process-solutions/automation-products/fax-server-solutions/) is still being sold.
 No regrets. I freely gave the idea away, a product is more than an idea, and nobody became a millionaire with it.
-Still, it would have been nice to have been given a chocolate chip cookie for it.
 
 ## Non-work
 
 My four brothers, one sister, and I grew up in towns around Fresno, California,
 finally settling in [Madera](https://en.wikipedia.org/wiki/Madera,_California), where my mother and one brother still live.
 
-I have two children, boy/girl twins, who are in their twenties.
-My daughter is going to graduate school on her way to a career in psychology.
-She is a *much* better student than her father was.
+I have two children, boy/girl twins.
+My daughter is a child psychologist.
+She was a *much* better student than her father was, thank goodness.
 My son will happily  talk your ears off about books, movies, and TV shows.
 
 Both the IBM PC and the Macintosh did not exist when I started at [UC Santa Barbara](https://www.ucsb.edu).
@@ -133,7 +126,7 @@ UCSB was using
 [BSD Unix](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 (Berkeley also being a UC school) so I have been using the vi(m) editor
 for a very long time.
-After school I moved to Southern California, following my girlfriend
+After school I moved to Southern California, following my then-girlfriend
 who was going to graduate school at UCLA (and would become wife #1).
 I lived down there until 2019, when my wife (#2) and I moved back to Madera
 (my children are still down south).
@@ -144,11 +137,8 @@ I'm all better now. A little different but all better.
 I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a road racer but I do like taking long rides.
-I am doing [my first fully-loaded bicycle tour in 2023](https://www.crazyguyonabike.com/doc/toc2023)
-with a dream of eventually riding solo across the US.
-In 2021 I finally had room to get my pretty decent weight equipment back
-and [took up weight training](http://www.weightsnet.com) again, after a 20 year layoff (kids).
-It's fun.
+I gave touring a try because I had a dream of riding solo across the US.
+I gave it a try but had to abandon the dream because of the after-effects of my cancer treatment.
 
 Wife #2 and I met for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
@@ -161,9 +151,8 @@ I am overrun with music CDs and look forward to [Bandcamp Fridays](https://isitb
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 And vinyl just sucks.
 
-Good thing I enjoy working in the yard and garden because
-we live on an acre so there is plenty for me to do.
-Our four dogs enjoy all that room, too.
+I enjoy working in the yard and garden and, lately, have taken up electrical work at home.
+I draw the line at replacing a panel, though. I have gotten pretty handy at everything up to that.
 
 During my first marriage I made all the meals but now I split the chef duties with my wife.
 We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say so myself.
@@ -174,7 +163,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [128 miles](https://www.strava.com/activities/7229568776)
 * My hair used to be quite a bit longer than it is now
-* There are >45,000 songs (400+GB) in my iTunes and most of them were actually bought.
+* There are >50,000 songs in my iTunes and most of them were actually bought.
 * I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 * I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
@@ -190,7 +179,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 
 ### [Music](https://freshtuneage.blogspot.com)
 
-#### My Ten Desert Island Songs (in playlist order)
+#### My Ten Stranded-On-An-Island Songs (in playlist order)
 
 1. [Baker Street](https://www.youtube.com/watch?v=Fo6aKnRnBxM) - Gerry Rafferty
 1. [Mowgli's Road](https://www.youtube.com/watch?v=zwfCjYv7gVQ) - Marina
@@ -203,7 +192,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 1. [Fotheringay](https://www.youtube.com/watch?v=sFnQaFVHdsE) - Fairport Convention
 1. [Nights in White Satin](https://www.youtube.com/watch?v=iVusUjyby18) - The Moody Blues
 
-#### My Ten Desert Island Albums
+#### My Ten Stranded-On-An-Island Albums
 
 * [The Good, The Bad, and The Ugly](https://www.youtube.com/playlist?list=PLqnnuEVGcRQy1rMg6--5M-2o-LzOwSnMr) - Ennio Morricone
 * [The Doors](https://www.youtube.com/playlist?list=OLAK5uy_mx98OhRuCf1iPS49rGdS-PxBTvjXdlU6I) - The Doors
@@ -288,12 +277,14 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [Jojo Rabbit](https://www.imdb.com/title/tt2584384/?ref_=ext_shr_lnk)
 * [Kill Bill: Vol 1](https://www.imdb.com/title/tt0266697/?ref_=ext_shr_lnk)
 * [La La Land](https://www.imdb.com/title/tt3783958/?ref_=ext_shr_lnk)
+* [The Last Dance](https://www.imdb.com/title/tt8420184/)
 * [Mad Max](https://www.imdb.com/title/tt0079501/?ref_=ext_shr_lnk)
 * [Mad Max 2: The Road Warrior](https://www.imdb.com/title/tt0082694/?ref_=ext_shr_lnk)
 * [Malena](https://www.imdb.com/title/tt0213847/?ref_=ext_shr_lnk)
 * [The Martian](https://www.imdb.com/title/tt3659388/?ref_=ext_shr_lnk)
 * [Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853/?ref_=ext_shr_lnk)
 * [Monty Python's Life of Brian](https://www.imdb.com/title/tt0079470/?ref_=ext_shr_lnk)
+* [Nova: Why The Towers Fell](https://www.imdb.com/title/tt0381710/reference/)
 * [Oktapodi](https://www.imdb.com/title/tt1323941/?ref_=ext_shr_lnk)
 * [Once Upon a Time...In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=ext_shr_lnk)
 * [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=ext_shr_lnk)
@@ -309,6 +300,8 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [Skyfall](https://www.imdb.com/title/tt1074638/?ref_=ext_shr_lnk)
 * [Sledge Hammer!](https://www.imdb.com/title/tt0090525/?ref_=ext_shr_lnk)
 * [Star Trek II: The Wrath of Khan](https://www.imdb.com/title/tt0084726/?ref_=ext_shr_lnk)
+* [Summer of Soul (...Or, When the Revolution Could Not Be Televised)](https://www.imdb.com/title/tt11422728/)
+* [The Sting](https://www.imdb.com/title/tt0070735/?ref_=ext_shr_lnk)
 * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=ext_shr_lnk)
 * [That Thing You Do!](https://www.imdb.com/title/tt0117887/?ref_=ext_shr_lnk)
 * [The Wizard of Oz](https://www.imdb.com/title/tt0032138/?ref_=ext_shr_lnk)
