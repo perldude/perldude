@@ -91,7 +91,7 @@ In early 2001, a co-worker/friend and I were asked by our manager about adding u
 (user reviews, lead by Amazon, were a fairly new thing at that point).
 The team's senior developer/prima donna didn't want to add them because he was certain they would degrade site responsiveness.
 We didn't share that opinion so we went ahead and implemented them.
-User reviews proved to be *very* popular (and didn't slow down the site at all).
+User reviews proved to be *very* popular and didn't slow down the site at all.
 They even got mentioned by the CEO in the next quarterly earnings call.
 
 A smarter person would have recognized that as a clue and gone off with his friend to start a local user reviews site (*especially* after we were laid off).
@@ -138,7 +138,7 @@ I started doing triathlons in 2009 and, while I have stopped running and
 swimming, I am now an [avid cyclist](https://www.strava.com/athletes/michaelsullivan).
 I'm too big to be a road racer but I do like taking long rides.
 I gave touring a try because I had a dream of riding solo across the US.
-I gave it a try but had to abandon the dream because of the after-effects of my cancer treatment.
+I gave it a try but had to abandon the dream because of the after-effects of cancer.
 
 Wife #2 and I met for the first time at our 30-year high school reunion.
 We didn't even *know of* each other before that.
@@ -147,7 +147,8 @@ We were quite a topic of conversation at our next reunion.
 Listening to music and watching movies are two of my favorite activities.
 There is an actual iPod on my desk connected to speakers.
 I enjoy different types of music but, deep down, I am quite the metal-head.🤘
-I am overrun with music CDs and look forward to [Bandcamp Fridays](https://isitbandcampfriday.com) each month.
+I am overrun with music CDs (and am in the process of [selling them](https://www.discogs.com/seller/hondo77/profile ))
+and look forward to [Bandcamp Fridays](https://isitbandcampfriday.com) each month.
 I have a lot of iTunes movies because I don't want to be overrun with Blu-rays.
 And vinyl just sucks.
 
@@ -163,7 +164,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * I have pulled someone out of a burning car
 * The farthest I have ridden my bike is [128 miles](https://www.strava.com/activities/7229568776)
 * My hair used to be quite a bit longer than it is now
-* There are >50,000 songs in my iTunes and most of them were actually bought.
+* There are >50,000 songs in my iTunes library and most of them were actually bought.
 * I have attended the Academy Awards (both the regular and the [Sci-Tech](https://www.oscars.org/news/tag/sci-tech-awards))
 * I found a job on the [Internet](https://capitalizemytitle.com/ufaqs/should-internet-be-capitalized/) for the first time in 1990.
 
@@ -204,7 +205,7 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [Frampton Comes Alive!](https://www.youtube.com/playlist?list=OLAK5uy_lkrhRgiTczPNnbopoxjsA4eBiiyW1FGAk) - Peter Frampton
   - There is no better live album.
 * [In the Court of the Crimson King](https://www.youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U) - King Crimson
-  - *"This is, as a matter of fact, not opinion, the single greatest musical achievement ever produced for the priviledged men and women of this planet whom can hear audible noise. BUY IT, IT WILL CHANGE YOUR PITIFUL LIFE AS YOU DARE NOT IMAGINE."* -reviewer on Amazon.com in 1998
+  - *"This is, as a matter of fact, not opinion, the single greatest musical achievement ever produced for the priviledged men and women of this planet whom can hear audible noise. BUY IT, IT WILL CHANGE YOUR PITIFUL LIFE AS YOU DARE NOT IMAGINE."*&nbsp; -&nbsp;reviewer on Amazon.com in 1998
 * [A Night at the Opera](https://www.youtube.com/playlist?list=OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8) - Queen
 
 #### [The 25 Best Singles of the Rock Era](https://youtube.com/playlist?list=PLRvXULDcxlmqV_oxSet3u0G_lF3Uxqcaj)* (in playlist order)
@@ -268,7 +269,6 @@ We make [pretty good meals](https://cookbookfabuloso.blogspot.com), if I do say 
 * [The Foreigner](https://www.imdb.com/title/tt1615160/?ref_=ext_shr_lnk)
 * [Forrest Gump](https://www.imdb.com/title/tt0109830/?ref_=ext_shr_lnk)
 * [The Godfather](https://www.imdb.com/title/tt0068646/?ref_=ext_shr_lnk)
-* [Godzilla vs. Kong](https://www.imdb.com/title/tt5034838/?ref_=ext_shr_lnk)
 * [Good Boys](https://www.imdb.com/title/tt6977338/?ref_=ext_shr_lnk)
 * [The Good, The Bad and The Ugly](https://www.imdb.com/title/tt0060196/?ref_=ext_shr_lnk)
 * [Greyhound](https://www.imdb.com/title/tt6048922/?ref_=ext_shr_lnk)
